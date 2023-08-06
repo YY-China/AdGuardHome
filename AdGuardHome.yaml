@@ -1,5 +1,6 @@
-bind_host: 0.0.0.0
-bind_port: 60003
+http:
+  address: 0.0.0.0:60003
+  session_ttl: 600h
 users:
   - name: xiaoyangzai
     password: $2a$10$uSnuAGmT2KHkxB3VHo32R.cXt2WXBUV5V7ghwdEtuM0gLi4GxPPLa
@@ -9,7 +10,6 @@ http_proxy: ""
 language: zh-cn
 theme: auto
 debug_pprof: false
-web_session_ttl: 600
 dns:
   bind_hosts:
     - 0.0.0.0
@@ -103,7 +103,7 @@ dns:
   cache_ttl_max: 86400
   cache_optimistic: false
   bogus_nxdomain: []
-  aaaa_disabled: true
+  aaaa_disabled: false
   enable_dnssec: true
   edns_client_subnet:
     custom_ip: ""
@@ -132,53 +132,56 @@ dns:
     youtube: true
   rewrites: []
   blocked_services:
-    - facebook
-    - instagram
-    - line
-    - netflix
-    - telegram
-    - twitter
-    - youtube
-    - xboxlive
-    - whatsapp
-    - voot
-    - vk
-    - vimeo
-    - viber
-    - valorant
-    - twitch
-    - tinder
-    - spotify
-    - soundcloud
-    - snapchat
-    - skype
-    - shopee
-    - riot_games
-    - roblox
-    - rakuten_viki
-    - 9gag
-    - crunchyroll
-    - dailymotion
-    - deezer
-    - discord
-    - epic_games
-    - hbomax
-    - gog
-    - hulu
-    - kakaotalk
-    - lazada
-    - mail_ru
-    - mastodon
-    - ok
-    - onlyfans
-    - origin
-    - pinterest
-    - disneyplus
-    - imgur
-    - kik
-    - tidal
-    - 500px
-    - flickr
+    schedule:
+      time_zone: UTC
+    ids:
+      - facebook
+      - instagram
+      - line
+      - netflix
+      - telegram
+      - twitter
+      - youtube
+      - xboxlive
+      - whatsapp
+      - voot
+      - vk
+      - vimeo
+      - viber
+      - valorant
+      - twitch
+      - tinder
+      - spotify
+      - soundcloud
+      - snapchat
+      - skype
+      - shopee
+      - roblox
+      - rakuten_viki
+      - 9gag
+      - crunchyroll
+      - dailymotion
+      - deezer
+      - discord
+      - hbomax
+      - gog
+      - hulu
+      - kakaotalk
+      - lazada
+      - mail_ru
+      - mastodon
+      - ok
+      - onlyfans
+      - origin
+      - pinterest
+      - disneyplus
+      - imgur
+      - kik
+      - tidal
+      - 500px
+      - flickr
+      - claro
+      - clubhouse
   upstream_timeout: 10s
   private_networks: []
   use_private_ptr_resolvers: true
@@ -298,7 +301,9 @@ user_rules:
   - '||_vlmcs._tcp.lan^$dnsrewrite=NOERROR;SRV;0 100 1688 my.router'
   - '||app.drivereasy.com^$important'
   - '||openai.com^$important'
+  - '@@||*^$client=''10.0.0.2'''
   - '@@||*^$client=''10.0.0.3'''
+  - '@@||*^$client=''10.0.0.4'''
 dhcp:
   enabled: false
   interface_name: ""
@@ -324,15 +329,16 @@ clients:
     dhcp: true
     hosts: true
   persistent: []
-log_file: ""
-log_max_backups: 0
-log_max_size: 100
-log_max_age: 3
-log_compress: false
-log_localtime: false
-verbose: false
+log:
+  file: ""
+  max_backups: 0
+  max_size: 100
+  max_age: 3
+  compress: false
+  local_time: false
+  verbose: false
 os:
   group: ""
   user: ""
   rlimit_nofile: 0
-schema_version: 20
+schema_version: 24
