@@ -29,6 +29,7 @@ dns:
     - https://120.53.53.53/dns-query
   fallback_dns:
     - 119.29.29.29
+    - '2402:4e00::'
   all_servers: true
   fastest_addr: false
   fastest_timeout: 1s
