@@ -115,10 +115,6 @@ filters:
     name: Steven Black's List
     id: 1683195505
   - enabled: true
-    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_6.txt
-    name: Dandelion Sprout's Game Console Adblock List
-    id: 1683195506
-  - enabled: true
     url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_37.txt
     name: No Google
     id: 1683195507
@@ -138,66 +134,6 @@ filters:
     url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_21.txt
     name: 'CHN: anti-AD'
     id: 1683195511
-  - enabled: true
-    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_12.txt
-    name: Dandelion Sprout's Anti-Malware List
-    id: 1683195512
-  - enabled: true
-    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_30.txt
-    name: Phishing URL Blocklist (PhishTank and OpenPhish)
-    id: 1683195513
-  - enabled: true
-    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_8.txt
-    name: NoCoin Filter List
-    id: 1683195514
-  - enabled: true
-    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_10.txt
-    name: Scam Blocklist by DurableNapkin
-    id: 1683195515
-  - enabled: true
-    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_31.txt
-    name: Stalkerware Indicators List
-    id: 1683195516
-  - enabled: true
-    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_9.txt
-    name: The Big List of Hacked Malware Web Sites
-    id: 1683195517
-  - enabled: true
-    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt
-    name: Malicious URL Blocklist (URLHaus)
-    id: 1683195518
-  - enabled: false
-    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_34.txt
-    name: HaGeZi Multi NORMAL
-    id: 1697058017
-  - enabled: true
-    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_18.txt
-    name: Phishing Army
-    id: 1697058018
-  - enabled: false
-    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_46.txt
-    name: HaGeZi's Anti-Piracy Blocklist
-    id: 1697058019
-  - enabled: false
-    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_45.txt
-    name: HaGeZi's Allowlist Referral
-    id: 1697058020
-  - enabled: false
-    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_44.txt
-    name: HaGeZi's Threat Intelligence Feeds
-    id: 1697058021
-  - enabled: false
-    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_47.txt
-    name: HaGeZi's Gambling Blocklist
-    id: 1697058022
-  - enabled: true
-    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_42.txt
-    name: ShadowWhisperer's Malware List
-    id: 1697058023
-  - enabled: true
-    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_50.txt
-    name: uBlock₀ filters – Badware risks
-    id: 1697058024
 whitelist_filters: []
 user_rules:
   - '||_vlmcs._tcp.lan^$dnsrewrite=NOERROR;SRV;0 100 1688 my.router'
