@@ -21,15 +21,13 @@ dns:
   ratelimit_whitelist: []
   refuse_any: true
   upstream_dns:
-    - '[/dhylmr.cn/]https://dns.alidns.com/dns-query'
-    - '[/dhylmr.com/]https://dns.alidns.com/dns-query'
-    - https://sm2.doh.pub/dns-query
+    - '[/xiaoyangzai.xyz/]https://sm2.doh.pub/dns-query'
+    - h3://dns.alidns.com/dns-query
   upstream_dns_file: ""
   bootstrap_dns:
-    - https://120.53.53.53/dns-query
+    - h3://223.5.5.5/dns-query
   fallback_dns:
-    - 119.29.29.29
-    - '2402:4e00::'
+    - 223.5.5.5
   all_servers: true
   fastest_addr: false
   fastest_timeout: 1s
@@ -240,53 +238,9 @@ filtering:
       - youtube
       - xboxlive
       - whatsapp
-      - voot
-      - vk
-      - vimeo
-      - viber
-      - valorant
-      - twitch
-      - tinder
       - spotify
-      - soundcloud
-      - snapchat
       - skype
-      - shopee
-      - roblox
-      - rakuten_viki
-      - 9gag
-      - crunchyroll
-      - dailymotion
-      - deezer
-      - discord
-      - hbomax
-      - gog
-      - hulu
-      - kakaotalk
-      - lazada
-      - mail_ru
-      - mastodon
-      - ok
-      - onlyfans
-      - origin
-      - pinterest
       - disneyplus
-      - imgur
-      - kik
-      - tidal
-      - 500px
-      - flickr
-      - clubhouse
-      - claro
-      - betano
-      - betfair
-      - betway
-      - blaze
-      - mercado_libre
-      - paramountplus
-      - iheartradio
-      - pluto_tv
-      - shein
   protection_disabled_until: null
   safe_search:
     enabled: false
