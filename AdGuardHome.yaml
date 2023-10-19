@@ -168,7 +168,7 @@ filters:
     url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_11.txt
     name: Malicious URL Blocklist (URLHaus)
     id: 1683195518
-  - enabled: true
+  - enabled: false
     url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_34.txt
     name: HaGeZi Multi NORMAL
     id: 1697058017
@@ -176,19 +176,19 @@ filters:
     url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_18.txt
     name: Phishing Army
     id: 1697058018
-  - enabled: true
+  - enabled: false
     url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_46.txt
     name: HaGeZi's Anti-Piracy Blocklist
     id: 1697058019
-  - enabled: true
+  - enabled: false
     url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_45.txt
     name: HaGeZi's Allowlist Referral
     id: 1697058020
-  - enabled: true
+  - enabled: false
     url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_44.txt
     name: HaGeZi's Threat Intelligence Feeds
     id: 1697058021
-  - enabled: true
+  - enabled: false
     url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_47.txt
     name: HaGeZi's Gambling Blocklist
     id: 1697058022
