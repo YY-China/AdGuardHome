@@ -32,7 +32,7 @@ dns:
   fastest_addr: false
   fastest_timeout: 1s
   allowed_clients: []
-  disallowed_clients:
+  disallowed_clients: []
   blocked_hosts:
     - version.bind
     - id.server
