@@ -140,7 +140,7 @@ user_rules:
   - '||app.drivereasy.com^$important'
   - '||openai.com^$important'
   - '@@||recaptcha.google.cn^$important'
-  - ""
+  - '@@||*^$client='10.0.0.4''
 dhcp:
   enabled: false
   interface_name: ""
