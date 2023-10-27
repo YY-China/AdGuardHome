@@ -21,7 +21,7 @@ dns:
   ratelimit_whitelist: []
   refuse_any: true
   upstream_dns:
-    - https://sm2.doh.pub/dns-query
+    - https://doh.pub/dns-query
   upstream_dns_file: ""
   bootstrap_dns:
     - https://1.12.12.12/dns-query
