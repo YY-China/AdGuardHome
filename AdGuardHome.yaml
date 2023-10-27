@@ -26,7 +26,7 @@ dns:
   bootstrap_dns:
     - https://1.12.12.12/dns-query
   fallback_dns:
-    - 119.29.29.29
+    - https://1.12.12.12/dns-query
   all_servers: true
   fastest_addr: false
   fastest_timeout: 1s
