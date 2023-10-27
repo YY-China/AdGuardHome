@@ -102,10 +102,6 @@ filters:
     name: Dan Pollock's List
     id: 1683195499
   - enabled: true
-    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_32.txt
-    name: The NoTracking blocklist
-    id: 1683195501
-  - enabled: true
     url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
     name: Peter Lowe's Blocklist
     id: 1683195504
@@ -117,14 +113,6 @@ filters:
     url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_37.txt
     name: No Google
     id: 1683195507
-  - enabled: true
-    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_7.txt
-    name: Perflyst and Dandelion Sprout's Smart-TV Blocklist
-    id: 1683195508
-  - enabled: true
-    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_23.txt
-    name: WindowsSpyBlocker - Hosts spy rules
-    id: 1683195509
   - enabled: true
     url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt
     name: 'CHN: AdRules DNS List'
