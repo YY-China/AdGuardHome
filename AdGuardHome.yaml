@@ -23,12 +23,12 @@ dns:
   upstream_dns:
     - '[/xiaoyangzai.xyz/]https://doh.pub/dns-query'
     - '[/adguard.com/]https://sm2.doh.pub/dns-query'
-    - https://dns.alidns.com/dns-query
+    - h3://dns.alidns.com/dns-query
   upstream_dns_file: ""
   bootstrap_dns:
-    - https://223.5.5.5/dns-query
+    - h3://223.5.5.5/dns-query
   fallback_dns:
-    - https://223.5.5.5/dns-query
+    - h3://223.5.5.5/dns-query
   all_servers: true
   fastest_addr: false
   fastest_timeout: 1s
@@ -44,7 +44,7 @@ dns:
   cache_size: 67108864
   cache_ttl_min: 600
   cache_ttl_max: 86400
-  cache_optimistic: false
+  cache_optimistic: true
   bogus_nxdomain: []
   aaaa_disabled: false
   enable_dnssec: true
@@ -129,7 +129,10 @@ user_rules:
   - '||app.drivereasy.com^$important'
   - '||openai.com^$important'
   - '@@||recaptcha.google.cn^$important'
-  - '@@||*^$client=''10.0.0.4'''
+  - '@@||*^$client=''10.0.0.11'''
+  - '@@||*^$client=''10.0.0.22'''
+  - '@@||*^$client=''10.0.0.33'''
+  - '@@||*^$client=''10.0.0.44'''
 dhcp:
   enabled: false
   interface_name: ""
