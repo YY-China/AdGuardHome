@@ -25,12 +25,15 @@ dns:
   upstream_dns:
     - '[/xiaoyangzai.xyz/]https://doh.pub/dns-query'
     - '[/adguard.com/]https://sm2.doh.pub/dns-query'
+    - https://doh.360.cn/dns-query
     - https://dns.alidns.com/dns-query
   upstream_dns_file: ""
   bootstrap_dns:
     - https://223.5.5.5/dns-query
+    - https://101.226.4.6/dns-query
   fallback_dns:
     - https://223.5.5.5/dns-query
+    - https://101.226.4.6/dns-query
   all_servers: true
   fastest_addr: false
   fastest_timeout: 1s
