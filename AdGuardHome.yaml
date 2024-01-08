@@ -15,7 +15,7 @@ theme: auto
 dns:
   bind_hosts:
     - 0.0.0.0
-  port: 5353
+  port: 53
   anonymize_client_ip: false
   ratelimit: 0
   ratelimit_subnet_len_ipv4: 24
@@ -132,6 +132,7 @@ user_rules:
   - '||app.drivereasy.com^$important'
   - '||openai.com^$important'
   - '@@||recaptcha.google.cn^$important'
+  - '@@||connectivitycheck.android.com^$important'
   - '@@||*^$client=''10.10.10.1'''
   - '@@||*^$client=''10.10.10.2'''
   - '@@||*^$client=''10.10.10.3'''
