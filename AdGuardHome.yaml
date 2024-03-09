@@ -37,6 +37,7 @@ dns:
     - id.server
     - hostname.bind
     - app.drivereasy.com
+    - www.google.com
   trusted_proxies:
     - 127.0.0.0/8
     - ::1/128
