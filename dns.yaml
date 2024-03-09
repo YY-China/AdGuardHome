@@ -32,6 +32,7 @@ https://doh.pub/dns-query
 [/360kuai.com/]https://doh.360.cn/dns-query
 [/360safe.com/]https://doh.360.cn/dns-query
 [/360webcache.com/]https://doh.360.cn/dns-query
+[/ludashi.com/]https://doh.360.cn/dns-query
 [/dhrest.com/]https://doh.360.cn/dns-query
 [/qhimg.com/]https://doh.360.cn/dns-query
 [/qhimgs.com/]https://doh.360.cn/dns-query
@@ -44,6 +45,10 @@ https://doh.pub/dns-query
 [/yunpan.com/]https://doh.360.cn/dns-query
 [/yunpan.com.cn/]https://doh.360.cn/dns-query
 [/urlqh.cn/]https://doh.360.cn/dns-query
+
+       # > Adguard
+[/adguard.com/]https://security.cloudflare-dns.com/dns-query
+[/adguard-dns.io/]https://security.cloudflare-dns.com/dns-query
 
        # > Ali
 [/1688.com/]https://dns.alidns.com/dns-query
