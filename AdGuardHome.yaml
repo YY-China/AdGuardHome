@@ -124,13 +124,7 @@ filters:
     id: 1683195511
 whitelist_filters: []
 user_rules:
-  - '@@||googleads.g.doubleclick.net^$client=''192.168.2.6'''
-  - '@@||securepubads.g.doubleclick.net^$client=''192.168.2.6'''
   - '||_vlmcs._tcp.lan^$dnsrewrite=NOERROR;SRV;0 100 1688 my.router'
-  - '||app.drivereasy.com^$important'
-  - '||openai.com^$important'
-  - '@@||recaptcha.google.cn^$important'
-  - '@@||connectivitycheck.android.com^$important'
   - '@@||*^$client=''10.10.10.1'''
   - '@@||*^$client=''10.10.10.2'''
   - '@@||*^$client=''10.10.10.3'''
