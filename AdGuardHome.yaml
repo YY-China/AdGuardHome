@@ -115,10 +115,6 @@ filters:
     name: Steven Black's List
     id: 1683195505
   - enabled: true
-    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_37.txt
-    name: No Google
-    id: 1683195507
-  - enabled: true
     url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt
     name: 'CHN: AdRules DNS List'
     id: 1683195510
