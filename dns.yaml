@@ -99,6 +99,7 @@ https://doh.pub/dns-query
 [/effirst.com/]https://dns.alidns.com/dns-query
 [/ele.me/]https://dns.alidns.com/dns-query
 [/etao.com/]https://dns.alidns.com/dns-query
+[/fcapp.run/]https://dns.alidns.com/dns-query
 [/fliggy.com/]https://dns.alidns.com/dns-query
 [/flyme.cn/]https://dns.alidns.com/dns-query
 [/flyme.com/]https://dns.alidns.com/dns-query
@@ -112,6 +113,7 @@ https://doh.pub/dns-query
 [/mmstat.com/]https://dns.alidns.com/dns-query
 [/mybank.cn/]https://dns.alidns.com/dns-query
 [/mzres.com/]https://dns.alidns.com/dns-query
+[/ndcpp.com/]https://dns.alidns.com/dns-query
 [/qy.net/]https://dns.alidns.com/dns-query
 [/sina.cn/]https://dns.alidns.com/dns-query
 [/sinaimg.cn/]https://dns.alidns.com/dns-query
@@ -230,6 +232,7 @@ https://doh.pub/dns-query
 [/duxiaoman.com/]180.76.76.76
 [/dwz.cn/]180.76.76.76
 [/qingting.fm/]180.76.76.76
+[/shifen.com/]180.76.76.76
 
 
        # > BiliBili
@@ -253,6 +256,7 @@ https://doh.pub/dns-query
 [/bytegoofy.com/]180.184.1.1
 [/byteimg.com/]180.184.1.1
 [/bytescm.com/]180.184.1.1
+[/bytetcc.com]180.184.1.1
 [/bytetos.com/]180.184.1.1
 [/bytexservice.com/]180.184.1.1
 [/douyin.com/]180.184.1.1
@@ -288,14 +292,16 @@ https://doh.pub/dns-query
 [/zjcdn.com/]180.184.1.1
 
        # > Cloudflare
-[/cloudflare.com/]https://dns.cloudflare.com/dns-query
-[/cloudflare-dns.com/]https://dns.cloudflare.com/dns-query
-[/cloudflareclient.com/]https://dns.cloudflare.com/dns-query
-[/cloudflareinsights.com/]https://dns.cloudflare.com/dns-query
-[/cloudflaressl.com/]https://dns.cloudflare.com/dns-query
-[/cloudflarestream.com/]https://dns.cloudflare.com/dns-query
-[/every1dns.net/]https://dns.cloudflare.com/dns-query
-[/workers.dev/]https://dns.cloudflare.com/dns-query
+[/adtidy.org/]https://security.cloudflare-dns.com/dns-query
+[/cloudflare.com/]https://security.cloudflare-dns.com/dns-query
+[/cloudflare-dns.com/]https://security.cloudflare-dns.com/dns-query
+[/cloudflareclient.com/]https://security.cloudflare-dns.com/dns-query
+[/cloudflareinsights.com/]https://security.cloudflare-dns.com/dns-query
+[/cloudflaressl.com/]https://security.cloudflare-dns.com/dns-query
+[/cloudflarestream.com/]https://security.cloudflare-dns.com/dns-query
+[/digicert.com/]https://security.cloudflare-dns.com/dns-query
+[/every1dns.net/]https://security.cloudflare-dns.com/dns-query
+[/workers.dev/]https://security.cloudflare-dns.com/dns-query
 
        # > CN-GOV
 [/gov.cn/]1.2.4.8
@@ -306,7 +312,6 @@ https://doh.pub/dns-query
 [/ghcr.io/]https://security.cloudflare-dns.com/dns-query
 [/git.io/]https://security.cloudflare-dns.com/dns-query
 [/github-atom-io-herokuapp-com.freetls.fastly.net/]https://security.cloudflare-dns.com/dns-query
-[/github-avatars.oss-cn-hongkong.aliyuncs.com/]https://security.cloudflare-dns.com/dns-query
 [/github-cloud.s3.amazonaws.com/]https://security.cloudflare-dns.com/dns-query
 [/github.blog/]https://security.cloudflare-dns.com/dns-query
 [/github.com/]https://security.cloudflare-dns.com/dns-query
@@ -470,7 +475,9 @@ https://doh.pub/dns-query
 [/qq.com/]https://sm2.doh.pub/dns-query
 [/qq.com.cn/]https://sm2.doh.pub/dns-query
 [/qqgameapp.com/]https://sm2.doh.pub/dns-query
+[/qqmail.com/]https://sm2.doh.pub/dns-query
 [/qqopenapp.com/]https://sm2.doh.pub/dns-query
+[/qrserver.com/]https://sm2.doh.pub/dns-query
 [/qzoneapp.com/]https://sm2.doh.pub/dns-query
 [/servicewechat.com/]https://sm2.doh.pub/dns-query
 [/smtcdns.com/]https://sm2.doh.pub/dns-query
