@@ -23,16 +23,12 @@ dns:
   ratelimit_whitelist: []
   refuse_any: true
   upstream_dns:
-    - '[/xiaoyangzai.xyz/]https://doh.pub/dns-query'
-    - '[/adguard.com/]https://sm2.doh.pub/dns-query'
-    - https://dns.alidns.com/dns-query
-  upstream_dns_file: ""
+    - 0.0.0.0
+  upstream_dns_file: /media/AiDisk_a1/AdGuardHome/dns.yaml
   bootstrap_dns:
-    - https://223.5.5.5/dns-query
-  fallback_dns:
-    - https://223.5.5.5/dns-query
-  all_servers: true
-  fastest_addr: false
+    - 0.0.0.0
+  fallback_dns: []
+  upstream_mode: fastest_addr
   fastest_timeout: 1s
   allowed_clients: []
   disallowed_clients: []
@@ -53,7 +49,7 @@ dns:
   enable_dnssec: true
   edns_client_subnet:
     custom_ip: ""
-    enabled: true
+    enabled: false
     use_custom: false
   max_goroutines: 300
   handle_ddr: true
@@ -96,33 +92,17 @@ statistics:
   enabled: true
 filters:
   - enabled: true
-    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
-    name: AdGuard DNS filter
-    id: 1683195497
-  - enabled: true
-    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_2.txt
-    name: AdAway Default Blocklist
-    id: 1683195498
-  - enabled: true
-    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_4.txt
-    name: Dan Pollock's List
-    id: 1683195499
-  - enabled: true
-    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_3.txt
-    name: Peter Lowe's Blocklist
-    id: 1683195504
-  - enabled: true
-    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_33.txt
-    name: Steven Black's List
-    id: 1683195505
-  - enabled: true
     url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt
     name: 'CHN: AdRules DNS List'
-    id: 1683195510
+    id: 1709993681
   - enabled: true
     url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_21.txt
     name: 'CHN: anti-AD'
-    id: 1683195511
+    id: 1709993682
+  - enabled: true
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
+    name: AdGuard DNS filter
+    id: 1709993683
 whitelist_filters: []
 user_rules:
   - '||_vlmcs._tcp.lan^$dnsrewrite=NOERROR;SRV;0 100 1688 my.router'
@@ -184,7 +164,7 @@ filtering:
   safesearch_cache_size: 1048576
   parental_cache_size: 1048576
   cache_time: 30
-  filters_update_interval: 12
+  filters_update_interval: 24
   blocked_response_ttl: 60
   filtering_enabled: true
   parental_enabled: false
@@ -210,4 +190,4 @@ os:
   group: ""
   user: ""
   rlimit_nofile: 0
-schema_version: 27
+schema_version: 28
