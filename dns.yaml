@@ -5,9 +5,6 @@
        # > Ali
 [/dns.alidns.com/]https://223.5.5.5/dns-query
 
-       # > Apple
-[/doh.dns.apple.com/]https://1.1.1.1/dns-query
-
        # > Cloudflare
 [/1dot1dot1dot1.cloudflare-dns.com/]https://1.1.1.1/dns-query
 [/dns.cloudflare.com/]https://1.1.1.1/dns-query
@@ -139,64 +136,6 @@ https://doh.pub/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 [/youwusc.com/]https://dns.alidns.com/dns-query
 
-       # > Apple
-[/aaplimg.com/]https://doh.dns.apple.com/dns-query
-[/akadns.net/]https://doh.dns.apple.com/dns-query
-[/apple.com/]https://doh.dns.apple.com/dns-query
-[/apple-icloud.cn/]https://doh.dns.apple.com/dns-query
-[/apple-mapkit.com/]https://doh.dns.apple.com/dns-query
-[/appleicloud.cn/]https://doh.dns.apple.com/dns-query
-[/applemx-icloud.com/]https://doh.dns.apple.com/dns-query
-[/cdn-apple.com/]https://doh.dns.apple.com/dns-query
-[/edgekey.net/]https://doh.dns.apple.com/dns-query
-[/icloud.com/]https://doh.dns.apple.com/dns-query
-[/icloud.com.cn/]https://doh.dns.apple.com/dns-query
-[/icloud.net.cn/]https://doh.dns.apple.com/dns-query
-[/icloud.ch/]https://doh.dns.apple.com/dns-query
-[/icloud.de/]https://doh.dns.apple.com/dns-query
-[/icloud.ee/]https://doh.dns.apple.com/dns-query
-[/icloud.fi/]https://doh.dns.apple.com/dns-query
-[/icloud.fr/]https://doh.dns.apple.com/dns-query
-[/icloud.hu/]https://doh.dns.apple.com/dns-query
-[/icloud.ie/]https://doh.dns.apple.com/dns-query
-[/icloud.is/]https://doh.dns.apple.com/dns-query
-[/icloud.jp/]https://doh.dns.apple.com/dns-query
-[/icloud.lv/]https://doh.dns.apple.com/dns-query
-[/icloud.om/]https://doh.dns.apple.com/dns-query
-[/icloud.org/]https://doh.dns.apple.com/dns-query
-[/icloud.pt/]https://doh.dns.apple.com/dns-query
-[/icloud.ro/]https://doh.dns.apple.com/dns-query
-[/icloud.se/]https://doh.dns.apple.com/dns-query
-[/icloud.si/]https://doh.dns.apple.com/dns-query
-[/icloud.sk/]https://doh.dns.apple.com/dns-query
-[/icloud.vn/]https://doh.dns.apple.com/dns-query
-[/icloud-apple.cn/]https://doh.dns.apple.com/dns-query
-[/icloud-content.com/]https://doh.dns.apple.com/dns-query
-[/icloud-isupport.com/]https://doh.dns.apple.com/dns-query
-[/icloudads.net/]https://doh.dns.apple.com/dns-query
-[/icloudapple.cn/]https://doh.dns.apple.com/dns-query
-[/icloudbox.net/]https://doh.dns.apple.com/dns-query
-[/icloudbrowser.net/]https://doh.dns.apple.com/dns-query
-[/icloude.com/]https://doh.dns.apple.com/dns-query
-[/icloudhome.com/]https://doh.dns.apple.com/dns-query
-[/icloudmail.net/]https://doh.dns.apple.com/dns-query
-[/icloudmusic.net/]https://doh.dns.apple.com/dns-query
-[/icloudnet.net/]https://doh.dns.apple.com/dns-query
-[/icloudpay.net/]https://doh.dns.apple.com/dns-query
-[/icloudo.com/]https://doh.dns.apple.com/dns-query
-[/icloudo.de/]https://doh.dns.apple.com/dns-query
-[/icloudo.net/]https://doh.dns.apple.com/dns-query
-[/icloudos.net/]https://doh.dns.apple.com/dns-query
-[/icloudsecure.net/]https://doh.dns.apple.com/dns-query
-[/icloudsetup.com/]https://doh.dns.apple.com/dns-query
-[/ios-icloud.com/]https://doh.dns.apple.com/dns-query
-[/me.com/]https://doh.dns.apple.com/dns-query
-[/myicloud.net/]https://doh.dns.apple.com/dns-query
-[/mylcloud.net/]https://doh.dns.apple.com/dns-query
-[/mzstatic.com/]https://doh.dns.apple.com/dns-query
-[/networking.apple/]https://doh.dns.apple.com/dns-query
-[/wwwicloud.com/]https://doh.dns.apple.com/dns-query
-
        # > Baidu
 [/91.com/]180.76.76.76
 [/baidu.com/]180.76.76.76
@@ -233,7 +172,6 @@ https://doh.pub/dns-query
 [/dwz.cn/]180.76.76.76
 [/qingting.fm/]180.76.76.76
 [/shifen.com/]180.76.76.76
-
 
        # > BiliBili
 [/upos-sz-mirrorali.bilivideo.com/]https://dns.alidns.com/dns-query
@@ -293,6 +231,7 @@ https://doh.pub/dns-query
 
        # > Cloudflare
 [/adtidy.org/]https://security.cloudflare-dns.com/dns-query
+[/digicert.com/]https://security.cloudflare-dns.com/dns-query
 [/cloudflare.com/]https://security.cloudflare-dns.com/dns-query
 [/cloudflare-dns.com/]https://security.cloudflare-dns.com/dns-query
 [/cloudflareclient.com/]https://security.cloudflare-dns.com/dns-query
@@ -311,38 +250,6 @@ https://doh.pub/dns-query
 [/dependabot.com/]https://security.cloudflare-dns.com/dns-query
 [/ghcr.io/]https://security.cloudflare-dns.com/dns-query
 [/git.io/]https://security.cloudflare-dns.com/dns-query
-[/github-atom-io-herokuapp-com.freetls.fastly.net/]https://security.cloudflare-dns.com/dns-query
-[/github-cloud.s3.amazonaws.com/]https://security.cloudflare-dns.com/dns-query
-[/github.blog/]https://security.cloudflare-dns.com/dns-query
-[/github.com/]https://security.cloudflare-dns.com/dns-query
-[/github.community/]https://security.cloudflare-dns.com/dns-query
-[/github.dev/]https://security.cloudflare-dns.com/dns-query
-[/github.io/]https://security.cloudflare-dns.com/dns-query
-[/githubapp.com/]https://security.cloudflare-dns.com/dns-query
-[/githubassets.com/]https://security.cloudflare-dns.com/dns-query
-[/githubhackathon.com/]https://security.cloudflare-dns.com/dns-query
-[/githubnext.com/]https://security.cloudflare-dns.com/dns-query
-[/githubpreview.dev/]https://security.cloudflare-dns.com/dns-query
-[/githubstatus.com/]https://security.cloudflare-dns.com/dns-query
-[/githubuniverse.com/]https://security.cloudflare-dns.com/dns-query
-[/githubusercontent.com/]https://security.cloudflare-dns.com/dns-query
-[/myoctocat.com/]https://security.cloudflare-dns.com/dns-query
-[/npm.community/]https://security.cloudflare-dns.com/dns-query
-[/npmjs.com/]https://security.cloudflare-dns.com/dns-query
-[/npmjs.org/]https://security.cloudflare-dns.com/dns-query
-[/opensource.guide/]https://security.cloudflare-dns.com/dns-query
-[/rawgit.com/]https://security.cloudflare-dns.com/dns-query
-[/rawgithub.com/]https://security.cloudflare-dns.com/dns-query
-[/repo.new/]https://security.cloudflare-dns.com/dns-query
-[/thegithubshop.com/]https://security.cloudflare-dns.com/dns-query
-
-       # > Github
-[/atom.io/]https://security.cloudflare-dns.com/dns-query
-[/dependabot.com/]https://security.cloudflare-dns.com/dns-query
-[/ghcr.io/]https://security.cloudflare-dns.com/dns-query
-[/git.io/]https://security.cloudflare-dns.com/dns-query
-[/github-atom-io-herokuapp-com.freetls.fastly.net/]https://security.cloudflare-dns.com/dns-query
-[/github-cloud.s3.amazonaws.com/]https://security.cloudflare-dns.com/dns-query
 [/github.blog/]https://security.cloudflare-dns.com/dns-query
 [/github.com/]https://security.cloudflare-dns.com/dns-query
 [/github.community/]https://security.cloudflare-dns.com/dns-query
