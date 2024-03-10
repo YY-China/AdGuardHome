@@ -271,14 +271,17 @@ https://doh.360.cn/dns-query
 [/digicert.cn/]https://dns.cloudflare.com/dns-query
 [/digicert.com/]https://dns.cloudflare.com/dns-query
 [/cloudflare.com/]https://dns.cloudflare.com/dns-query
+[/cloudflare.net/]https://dns.cloudflare.com/dns-query
 [/cloudflare-dns.com/]https://dns.cloudflare.com/dns-query
 [/cloudflareclient.com/]https://dns.cloudflare.com/dns-query
 [/cloudflareinsights.com/]https://dns.cloudflare.com/dns-query
 [/cloudflaressl.com/]https://dns.cloudflare.com/dns-query
 [/cloudflarestream.com/]https://dns.cloudflare.com/dns-query
+[/comodoca.com/]https://dns.cloudflare.com/dns-query
 [/digicert.com/]https://dns.cloudflare.com/dns-query
 [/every1dns.net/]https://dns.cloudflare.com/dns-query
 [/nolanstore.cc/]https://dns.cloudflare.com/dns-query
+[/verisign.com/]https://dns.cloudflare.com/dns-query
 [/workers.dev/]https://dns.cloudflare.com/dns-query
 
        # > CN-GOV
