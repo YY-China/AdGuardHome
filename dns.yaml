@@ -19,8 +19,9 @@
 
 
 # > DNS
+https://dns.alidns.com/dns-query
+https://dns.pub/dns-query
 https://doh.360.cn/dns-query
-https://sm2.doh.pub/dns-query
 
 
 
@@ -194,8 +195,8 @@ https://sm2.doh.pub/dns-query
        # > BiliBili
 [/upos-sz-mirrorali.bilivideo.com/]https://dns.alidns.com/dns-query
 [/upos-sz-mirrorbos.bilivideo.com/]180.76.76.76
-[/upos-sz-mirrorcos.bilivideo.com/]https://doh.pub/dns-query
-[/upos-sz-upcdntx.bilivideo.com/]https://doh.pub/dns-query
+[/upos-sz-mirrorcos.bilivideo.com/]https://sm2.doh.pub/dns-query
+[/upos-sz-upcdntx.bilivideo.com/]https://sm2.doh.pub/dns-query
 
        # > Bytedance
 [/amemv.com/]180.184.1.1
@@ -393,54 +394,54 @@ https://sm2.doh.pub/dns-query
 [/widevine.com/]https://dns.alidns.com/dns-query
 
        # > Tencent
-[/akamai.net/]https://doh.pub/dns-query
-[/cdn-go.cn/]https://doh.pub/dns-query
-[/cdntips.net/]https://doh.pub/dns-query
-[/dnspod.cn/]https://doh.pub/dns-query
-[/gtimg.cn/]https://doh.pub/dns-query
-[/gtimg.com/]https://doh.pub/dns-query
-[/idqqimg.com/]https://doh.pub/dns-query
-[/maoyan.com/]https://doh.pub/dns-query
-[/myqcloud.com/]https://doh.pub/dns-query
-[/pengyou.com/]https://doh.pub/dns-query
-[/qcloud.com/]https://doh.pub/dns-query
-[/qcloudcdn.cn/]https://doh.pub/dns-query
-[/qcloudcdn.com/]https://doh.pub/dns-query
-[/qcloudcjgj.com/]https://doh.pub/dns-query
-[/qcloudcos.com/]https://doh.pub/dns-query
-[/qcloudimg.com/]https://doh.pub/dns-query
-[/qcloudwzgj.com/]https://doh.pub/dns-query
-[/qcloudzygj.com/]https://doh.pub/dns-query
-[/qlogo.cn/]https://doh.pub/dns-query
-[/qpic.cn/]https://doh.pub/dns-query
-[/qq.cn/]https://doh.pub/dns-query
-[/qq.com/]https://doh.pub/dns-query
-[/qq.com.cn/]https://doh.pub/dns-query
-[/qqgameapp.com/]https://doh.pub/dns-query
-[/qqmail.com/]https://doh.pub/dns-query
-[/qqopenapp.com/]https://doh.pub/dns-query
-[/qrserver.com/]https://doh.pub/dns-query
-[/qzoneapp.com/]https://doh.pub/dns-query
-[/servicewechat.com/]https://doh.pub/dns-query
-[/smtcdns.com/]https://doh.pub/dns-query
-[/smtcdns.net/]https://doh.pub/dns-query
-[/sogou.com/]https://doh.pub/dns-query
-[/sogoucdn.com/]https://doh.pub/dns-query
-[/tencent.com/]https://doh.pub/dns-query
-[/tencent-cloud.cn/]https://doh.pub/dns-query
-[/tencent-cloud.com/]https://doh.pub/dns-query
-[/tencent-cloud.net/]https://doh.pub/dns-query
-[/tencentcloud-aiot.com/]https://doh.pub/dns-query
-[/tencentcloudapi.com/]https://doh.pub/dns-query
-[/tencentcloudcr.com/]https://doh.pub/dns-query
-[/tencentcloudmarket.com/]https://doh.pub/dns-query
-[/tencentcs.cn/]https://doh.pub/dns-query
-[/tencentcs.com/]https://doh.pub/dns-query
-[/url.cn/]https://doh.pub/dns-query
-[/wechat.com/]https://doh.pub/dns-query
-[/weixin.com/]https://doh.pub/dns-query
-[/weixinbridge.com/]https://doh.pub/dns-query
-[/weiyun.com/]https://doh.pub/dns-query
+[/akamai.net/]https://sm2.doh.pub/dns-query
+[/cdn-go.cn/]https://sm2.doh.pub/dns-query
+[/cdntips.net/]https://sm2.doh.pub/dns-query
+[/dnspod.cn/]https://sm2.doh.pub/dns-query
+[/gtimg.cn/]https://sm2.doh.pub/dns-query
+[/gtimg.com/]https://sm2.doh.pub/dns-query
+[/idqqimg.com/]https://sm2.doh.pub/dns-query
+[/maoyan.com/]https://sm2.doh.pub/dns-query
+[/myqcloud.com/]https://sm2.doh.pub/dns-query
+[/pengyou.com/]https://sm2.doh.pub/dns-query
+[/qcloud.com/]https://sm2.doh.pub/dns-query
+[/qcloudcdn.cn/]https://sm2.doh.pub/dns-query
+[/qcloudcdn.com/]https://sm2.doh.pub/dns-query
+[/qcloudcjgj.com/]https://sm2.doh.pub/dns-query
+[/qcloudcos.com/]https://sm2.doh.pub/dns-query
+[/qcloudimg.com/]https://sm2.doh.pub/dns-query
+[/qcloudwzgj.com/]https://sm2.doh.pub/dns-query
+[/qcloudzygj.com/]https://sm2.doh.pub/dns-query
+[/qlogo.cn/]https://sm2.doh.pub/dns-query
+[/qpic.cn/]https://sm2.doh.pub/dns-query
+[/qq.cn/]https://sm2.doh.pub/dns-query
+[/qq.com/]https://sm2.doh.pub/dns-query
+[/qq.com.cn/]https://sm2.doh.pub/dns-query
+[/qqgameapp.com/]https://sm2.doh.pub/dns-query
+[/qqmail.com/]https://sm2.doh.pub/dns-query
+[/qqopenapp.com/]https://sm2.doh.pub/dns-query
+[/qrserver.com/]https://sm2.doh.pub/dns-query
+[/qzoneapp.com/]https://sm2.doh.pub/dns-query
+[/servicewechat.com/]https://sm2.doh.pub/dns-query
+[/smtcdns.com/]https://sm2.doh.pub/dns-query
+[/smtcdns.net/]https://sm2.doh.pub/dns-query
+[/sogou.com/]https://sm2.doh.pub/dns-query
+[/sogoucdn.com/]https://sm2.doh.pub/dns-query
+[/tencent.com/]https://sm2.doh.pub/dns-query
+[/tencent-cloud.cn/]https://sm2.doh.pub/dns-query
+[/tencent-cloud.com/]https://sm2.doh.pub/dns-query
+[/tencent-cloud.net/]https://sm2.doh.pub/dns-query
+[/tencentcloud-aiot.com/]https://sm2.doh.pub/dns-query
+[/tencentcloudapi.com/]https://sm2.doh.pub/dns-query
+[/tencentcloudcr.com/]https://sm2.doh.pub/dns-query
+[/tencentcloudmarket.com/]https://sm2.doh.pub/dns-query
+[/tencentcs.cn/]https://sm2.doh.pub/dns-query
+[/tencentcs.com/]https://sm2.doh.pub/dns-query
+[/url.cn/]https://sm2.doh.pub/dns-query
+[/wechat.com/]https://sm2.doh.pub/dns-query
+[/weixin.com/]https://sm2.doh.pub/dns-query
+[/weixinbridge.com/]https://sm2.doh.pub/dns-query
+[/weiyun.com/]https://sm2.doh.pub/dns-query
 
        # > XunLei
 [/88cdn.com/]https://dns.alidns.com/dns-query
