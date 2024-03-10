@@ -37,6 +37,7 @@ dns:
     - id.server
     - version.bind
     - app.drivereasy.com
+    - us.wondershare.com
     - www.google.com
     - facebook.com
     - openai.com
