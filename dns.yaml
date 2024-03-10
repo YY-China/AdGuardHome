@@ -35,6 +35,8 @@ https://doh.pub/dns-query
 [/360kuai.com/]https://doh.360.cn/dns-query
 [/360safe.com/]https://doh.360.cn/dns-query
 [/360webcache.com/]https://doh.360.cn/dns-query
+[/baomitu.com/]https://doh.360.cn/dns-query
+[/dhrest.com/]https://doh.360.cn/dns-query
 [/ludashi.com/]https://doh.360.cn/dns-query
 [/dhrest.com/]https://doh.360.cn/dns-query
 [/qhimg.com/]https://doh.360.cn/dns-query
@@ -55,6 +57,7 @@ https://doh.pub/dns-query
 
     # > Ali
 [/1688.com/]https://dns.alidns.com/dns-query
+[/365yg.com/]https://dns.alidns.com/dns-query
 [/71edge.com/]https://dns.alidns.com/dns-query
 [/9xsecndns.cn/]https://dns.alidns.com/dns-query
 [/aliapp.com/]https://dns.alidns.com/dns-query
@@ -92,7 +95,6 @@ https://doh.pub/dns-query
 [/aliyundrive.com/]https://dns.alidns.com/dns-query
 [/aliyundun.com/]https://dns.alidns.com/dns-query
 [/aliyundunwaf.com/]https://dns.alidns.com/dns-query
-[/allawntech.com/]https://dns.alidns.com/dns-query
 [/amap.com/]https://dns.alidns.com/dns-query
 [/antfin.com/]https://dns.alidns.com/dns-query
 [/antfinancial.com/]https://dns.alidns.com/dns-query
@@ -105,11 +107,14 @@ https://doh.pub/dns-query
 [/cibntv.net/]https://dns.alidns.com/dns-query
 [/cmpassport.com/]https://dns.alidns.com/dns-query
 [/cnzz.com/]https://dns.alidns.com/dns-query
+[/ctrip.com/]https://dns.alidns.com/dns-query
 [/damai.cn/]https://dns.alidns.com/dns-query
 [/dalvhe.com/]https://dns.alidns.com/dns-query
+[/didistatic.com/]https://dns.alidns.com/dns-query
 [/dingtalk.cn/]https://dns.alidns.com/dns-query
 [/dingtalk.com/]https://dns.alidns.com/dns-query
 [/duoduocdn.com/]https://dns.alidns.com/dns-query
+[/ecombdapi.com/]https://dns.alidns.com/dns-query
 [/effirst.com/]https://dns.alidns.com/dns-query
 [/ele.me/]https://dns.alidns.com/dns-query
 [/etao.com/]https://dns.alidns.com/dns-query
@@ -122,6 +127,7 @@ https://doh.pub/dns-query
 [/hdslb.com/]https://dns.alidns.com/dns-query
 [/hichina.com/]https://dns.alidns.com/dns-query
 [/hzshudian.com/]https://dns.alidns.com/dns-query
+[/id6.me/]https://dns.alidns.com/dns-query
 [/iqiyi.com/]https://dns.alidns.com/dns-query
 [/iqiyipic.com/]https://dns.alidns.com/dns-query
 [/koubei.com/]https://dns.alidns.com/dns-query
@@ -131,6 +137,8 @@ https://doh.pub/dns-query
 [/mybank.cn/]https://dns.alidns.com/dns-query
 [/mzres.com/]https://dns.alidns.com/dns-query
 [/ndcpp.com/]https://dns.alidns.com/dns-query
+[/ppio.cloud/]https://dns.alidns.com/dns-query
+[/ppsimg.com/]https://dns.alidns.com/dns-query
 [/qy.net/]https://dns.alidns.com/dns-query
 [/shuzilm.cn/]https://dns.alidns.com/dns-query
 [/shuzilm.com/]https://dns.alidns.com/dns-query
@@ -146,6 +154,9 @@ https://doh.pub/dns-query
 [/tbcdn.cn/]https://dns.alidns.com/dns-query
 [/telecome.cn/]https://dns.alidns.com/dns-query
 [/tmall.com/]https://dns.alidns.com/dns-query
+[/tripcdn.com/]https://dns.alidns.com/dns-query
+[/trust-provider.cn/]https://dns.alidns.com/dns-query
+[/ttwebview.com/]https://dns.alidns.com/dns-query
 [/tudou.com/]https://dns.alidns.com/dns-query
 [/uc.cn/]https://dns.alidns.com/dns-query
 [/ucweb.com/]https://dns.alidns.com/dns-query
@@ -156,9 +167,12 @@ https://doh.pub/dns-query
 [/weibo.cn/]https://dns.alidns.com/dns-query
 [/weibo.com/]https://dns.alidns.com/dns-query
 [/weibocdn.com/]https://dns.alidns.com/dns-query
+[/wosms.cn/]https://dns.alidns.com/dns-query
+[/xhscdn.com/]https://dns.alidns.com/dns-query
 [/xiami.com/]https://dns.alidns.com/dns-query
 [/xianyuso.com/]https://dns.alidns.com/dns-query
 [/ykimg.com/]https://dns.alidns.com/dns-query
+[/yoojober.com/]https://dns.alidns.com/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 [/youwusc.com/]https://dns.alidns.com/dns-query
 
@@ -269,7 +283,9 @@ https://doh.pub/dns-query
 [/bdysites.com/]180.76.76.76
 [/duapp.com/]180.76.76.76
 [/duxiaoman.com/]180.76.76.76
+[/duxiaomanfintech.com/]180.76.76.76
 [/dwz.cn/]180.76.76.76
+[/dxmpay.com/]180.76.76.76
 [/qingting.fm/]180.76.76.76
 [/shifen.com/]180.76.76.76
 
@@ -283,11 +299,14 @@ https://doh.pub/dns-query
 [/amemv.com/]180.184.1.1
 [/bdxiguaimg.com/]180.184.1.1
 [/bdxiguastatic.com/]180.184.1.1
+[/bdxiguavod.com/]180.184.1.1
 [/bdurl.net/]180.184.1.1
+[/bytecdn.cn/]180.184.1.1
 [/byted-static.com/]180.184.1.1
 [/bytedance.cn/]180.184.1.1
 [/bytedance.com/]180.184.1.1
 [/bytedance.com.cn/]180.184.1.1
+[/bytedns.com/]180.184.1.1
 [/bytedns.net/]180.184.1.1
 [/bytednsdoc.com/]180.184.1.1
 [/bytegecko.com/]180.184.1.1
@@ -311,6 +330,7 @@ https://doh.pub/dns-query
 [/huoshan.com/]180.184.1.1
 [/huoshanlive.com/]180.184.1.1
 [/huoshanzhibo.com/]180.184.1.1
+[/ibdxiguavod.com/]180.184.1.1
 [/ibytedapm.com/]180.184.1.1
 [/iesdouyin.com/]180.184.1.1
 [/ihuoshanlive.com/]180.184.1.1
@@ -331,10 +351,14 @@ https://doh.pub/dns-query
 [/snssdk.com/]180.184.1.1
 [/toutiao.com/]180.184.1.1
 [/toutiao13.com/]180.184.1.1
+[/toutiaoapi.com/]180.184.1.1
 [/toutiaocloud.cn/]180.184.1.1
 [/toutiaocloud.com/]180.184.1.1
 [/toutiaocloud.com.cn/]180.184.1.1
+[/toutiaoimg.com/]180.184.1.1
 [/toutiaopage.com/]180.184.1.1
+[/toutiaovod.com/]180.184.1.1
+[/ugsdk.cn/]180.184.1.1
 [/volcengine.com/]180.184.1.1
 [/wukong.com/]180.184.1.1
 [/zijieapi.com/]180.184.1.1
@@ -517,13 +541,16 @@ https://doh.pub/dns-query
 [/wmsjsteam.com/]https://dns.alidns.com/dns-query
 
     # > Tencent
+[/acimg.cn/]https://sm2.doh.pub/dns-query
 [/cdn-go.cn/]https://sm2.doh.pub/dns-query
 [/cdntips.net/]https://sm2.doh.pub/dns-query
 [/dnspod.cn/]https://sm2.doh.pub/dns-query
 [/gtimg.cn/]https://sm2.doh.pub/dns-query
 [/gtimg.com/]https://sm2.doh.pub/dns-query
+[/huaixin88.com/]https://sm2.doh.pub/dns-query
 [/idqqimg.com/]https://sm2.doh.pub/dns-query
 [/maoyan.com/]https://sm2.doh.pub/dns-query
+[/myapp.com/]https://sm2.doh.pub/dns-query
 [/myqcloud.com/]https://sm2.doh.pub/dns-query
 [/pengyou.com/]https://sm2.doh.pub/dns-query
 [/qcloud.com/]https://sm2.doh.pub/dns-query
@@ -562,6 +589,7 @@ https://doh.pub/dns-query
 [/tencentcloudmarket.com/]https://sm2.doh.pub/dns-query
 [/tencentcs.cn/]https://sm2.doh.pub/dns-query
 [/tencentcs.com/]https://sm2.doh.pub/dns-query
+[/tencentsuite.com/]https://sm2.doh.pub/dns-query
 [/tencentwm.cn/]https://sm2.doh.pub/dns-query
 [/tencentwm.com/]https://sm2.doh.pub/dns-query
 [/tencentwm.net/]https://sm2.doh.pub/dns-query
@@ -569,6 +597,7 @@ https://doh.pub/dns-query
 [/tenpay.com/]https://sm2.doh.pub/dns-query
 [/tenpay.com.cn/]https://sm2.doh.pub/dns-query
 [/tenpay.net/]https://sm2.doh.pub/dns-query
+[/txfund.com/]https://sm2.doh.pub/dns-query
 [/url.cn/]https://sm2.doh.pub/dns-query
 [/webank.com/]https://sm2.doh.pub/dns-query
 [/webankwealth.com/]https://sm2.doh.pub/dns-query
@@ -577,6 +606,7 @@ https://doh.pub/dns-query
 [/weixin.com/]https://sm2.doh.pub/dns-query
 [/weixinbridge.com/]https://sm2.doh.pub/dns-query
 [/weiyun.com/]https://sm2.doh.pub/dns-query
+[/wnsqzonebk.com/]https://sm2.doh.pub/dns-query
 
     # > XunLei
 [/88cdn.com/]https://dns.alidns.com/dns-query
