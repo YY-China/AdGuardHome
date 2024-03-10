@@ -55,6 +55,7 @@ https://doh.pub/dns-query
 
     # > Adguard
 [/adguard.com/]https://dns.cloudflare.com/dns-query
+[/adguard.info/]https://dns.cloudflare.com/dns-query
 [/adguard-dns.io/]https://dns.cloudflare.com/dns-query
 
     # > Ali
