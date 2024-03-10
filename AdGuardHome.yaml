@@ -33,11 +33,15 @@ dns:
   allowed_clients: []
   disallowed_clients: []
   blocked_hosts:
-    - version.bind
-    - id.server
     - hostname.bind
+    - id.server
+    - version.bind
     - app.drivereasy.com
     - www.google.com
+    - facebook.com
+    - openai.com
+    - twitter.com
+    - youtube.com
   trusted_proxies:
     - 127.0.0.0/8
     - ::1/128
