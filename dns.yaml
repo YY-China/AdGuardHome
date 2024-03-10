@@ -123,21 +123,12 @@ https://doh.360.cn/dns-query
 [/iqiyi.com/]https://dns.alidns.com/dns-query
 [/iqiyipic.com/]https://dns.alidns.com/dns-query
 [/koubei.com/]https://dns.alidns.com/dns-query
-[/ks-cdn.com/]https://dns.alidns.com/dns-query
-[/ks-live.com/]https://dns.alidns.com/dns-query
-[/ksyuncdn.cn/]https://dns.alidns.com/dns-query
-[/ksyuncdn.com/]https://dns.alidns.com/dns-query
-[/ksyuncdn.net/]https://dns.alidns.com/dns-query
 [/meizu.cn/]https://dns.alidns.com/dns-query
 [/meizu.com/]https://dns.alidns.com/dns-query
 [/mmstat.com/]https://dns.alidns.com/dns-query
 [/mybank.cn/]https://dns.alidns.com/dns-query
 [/mzres.com/]https://dns.alidns.com/dns-query
 [/ndcpp.com/]https://dns.alidns.com/dns-query
-[/qtlcdn.cn/]https://dns.alidns.com/dns-query
-[/qtlcdn.com/]https://dns.alidns.com/dns-query
-[/qtlcdn.net/]https://dns.alidns.com/dns-query
-[/qtlcdncn.info/]https://dns.alidns.com/dns-query
 [/qy.net/]https://dns.alidns.com/dns-query
 [/shuzilm.cn/]https://dns.alidns.com/dns-query
 [/shuzilm.com/]https://dns.alidns.com/dns-query
@@ -167,6 +158,10 @@ https://doh.360.cn/dns-query
 [/ykimg.com/]https://dns.alidns.com/dns-query
 [/youku.com/]https://dns.alidns.com/dns-query
 [/youwusc.com/]https://dns.alidns.com/dns-query
+
+
+
+
 
        # > Baidu
 [/91.com/]180.76.76.76
@@ -297,6 +292,8 @@ https://doh.360.cn/dns-query
 [/gov.cn/]1.2.4.8
 
        # > Github
+[/github-atom-io-herokuapp-com.freetls.fastly.net/]https://security.cloudflare-dns.com/dns-query
+[/github-cloud.s3.amazonaws.com/]https://security.cloudflare-dns.com/dns-query
 [/atom.io/]https://dns.cloudflare.com/dns-query
 [/dependabot.com/]https://dns.cloudflare.com/dns-query
 [/ghcr.io/]https://dns.cloudflare.com/dns-query
