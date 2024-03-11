@@ -40,6 +40,16 @@ https://dns.alidns.com/dns-query
 [/dhrest.com/]https://doh.360.cn/dns-query
 [/qhimg.com/]https://doh.360.cn/dns-query
 [/qhimgs.com/]https://doh.360.cn/dns-query
+[/qhimgs0.com/]https://doh.360.cn/dns-query
+[/qhimgs1.com/]https://doh.360.cn/dns-query
+[/qhimgs2.com/]https://doh.360.cn/dns-query
+[/qhimgs3.com/]https://doh.360.cn/dns-query
+[/qhimgs4.com/]https://doh.360.cn/dns-query
+[/qhimgs5.com/]https://doh.360.cn/dns-query
+[/qhimgs6.com/]https://doh.360.cn/dns-query
+[/qhimgs7.com/]https://doh.360.cn/dns-query
+[/qhimgs8.com/]https://doh.360.cn/dns-query
+[/qhimgs9.com/]https://doh.360.cn/dns-query
 [/qhmsg.com/]https://doh.360.cn/dns-query
 [/qhres.com/]https://doh.360.cn/dns-query
 [/qhres2.com/]https://doh.360.cn/dns-query
@@ -174,6 +184,8 @@ https://dns.alidns.com/dns-query
 [/toutiaovod.com/]180.184.1.1
 [/ugsdk.cn/]180.184.1.1
 [/volcengine.com/]180.184.1.1
+[/volcgslb.com/]180.184.1.1
+[/volcgtm.com/]180.184.1.1
 [/wukong.com/]180.184.1.1
 [/zijieapi.com/]180.184.1.1
 [/zijieimg.com/]180.184.1.1
@@ -229,6 +241,39 @@ https://dns.alidns.com/dns-query
 [/rawgithub.com/]https://dns.cloudflare.com/dns-query
 [/repo.new/]https://dns.cloudflare.com/dns-query
 [/thegithubshop.com/]https://dns.cloudflare.com/dns-query
+
+    # > [JingDong]
+[/300hu.com/]https://sm2.doh.pub/dns-query
+[/360buyimg.com/]https://sm2.doh.pub/dns-query
+[/7fresh.com/]https://sm2.doh.pub/dns-query
+[/healthjd.com/]https://sm2.doh.pub/dns-query
+[/imdada.cn/]https://sm2.doh.pub/dns-query
+[/jcloud.com/]https://sm2.doh.pub/dns-query
+[/jcloud-cdn.com/]https://sm2.doh.pub/dns-query
+[/jcloudimg.com/]https://sm2.doh.pub/dns-query
+[/jcloudlb.com/]https://sm2.doh.pub/dns-query
+[/jd.com/]https://sm2.doh.pub/dns-query
+[/jd.hk/]https://sm2.doh.pub/dns-query
+[/jdbox.xyz/]https://sm2.doh.pub/dns-query
+[/jdcache.com/]https://sm2.doh.pub/dns-query
+[/jdcdn.com/]https://sm2.doh.pub/dns-query
+[/jdcloud.com/]https://sm2.doh.pub/dns-query
+[/jdcloud-api.net/]https://sm2.doh.pub/dns-query
+[/jdcloud-oss.com/]https://sm2.doh.pub/dns-query
+[/jdcloudcs.com/]https://sm2.doh.pub/dns-query
+[/jdcloudwaf.com/]https://sm2.doh.pub/dns-query
+[/jddaojia.shop/]https://sm2.doh.pub/dns-query
+[/jddj.com/]https://sm2.doh.pub/dns-query
+[/jdgslb.com/]https://sm2.doh.pub/dns-query
+[/jdl.com/]https://sm2.doh.pub/dns-query
+[/jdpay.com/]https://sm2.doh.pub/dns-query
+[/jhscm.com/]https://sm2.doh.pub/dns-query
+[/jingdong.com/]https://sm2.doh.pub/dns-query
+[/jingxi.com/]https://sm2.doh.pub/dns-query
+[/jkcsjd.com/]https://sm2.doh.pub/dns-query
+[/jstatic.3.cn/]https://sm2.doh.pub/dns-query
+[/qianxun.com/]https://sm2.doh.pub/dns-query
+[/yiyaojd.com/]https://sm2.doh.pub/dns-query
 
     # > [Tencent]
 [/acimg.cn/]https://sm2.doh.pub/dns-query
