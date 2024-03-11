@@ -106,9 +106,9 @@ https://doh.pub/dns-query
 [/avlyun.com/]https://dns.alidns.com/dns-query
 [/c-ctrip.com/]https://dns.alidns.com/dns-query
 [/cainiao.com/]https://dns.alidns.com/dns-query
-[/cdngslb.com/]https://dns.alidns.com/dns-query
 [/cibntv.net/]https://dns.alidns.com/dns-query
 [/cmpassport.com/]https://dns.alidns.com/dns-query
+[/cnspeedtest.com/]https://dns.alidns.com/dns-query
 [/cnzz.com/]https://dns.alidns.com/dns-query
 [/ctrip.com/]https://dns.alidns.com/dns-query
 [/damai.cn/]https://dns.alidns.com/dns-query
@@ -144,6 +144,7 @@ https://doh.pub/dns-query
 [/ndcpp.com/]https://dns.alidns.com/dns-query
 [/ppio.cloud/]https://dns.alidns.com/dns-query
 [/ppsimg.com/]https://dns.alidns.com/dns-query
+[/queniuyk.com/]https://dns.alidns.com/dns-query
 [/qy.net/]https://dns.alidns.com/dns-query
 [/shuzilm.cn/]https://dns.alidns.com/dns-query
 [/shuzilm.com/]https://dns.alidns.com/dns-query
@@ -158,6 +159,7 @@ https://doh.pub/dns-query
 [/tbcache.com/]https://dns.alidns.com/dns-query
 [/tbcdn.cn/]https://dns.alidns.com/dns-query
 [/telecome.cn/]https://dns.alidns.com/dns-query
+[/tl88.net/]https://dns.alidns.com/dns-query
 [/tmall.com/]https://dns.alidns.com/dns-query
 [/tripcdn.com/]https://dns.alidns.com/dns-query
 [/trust-provider.cn/]https://dns.alidns.com/dns-query
@@ -312,6 +314,8 @@ https://doh.pub/dns-query
 [/bytedance.com/]180.184.1.1
 [/bytedance.com.cn/]180.184.1.1
 [/bytedns.com/]180.184.1.1
+[/bytedns1.com/]180.184.1.1
+[/bytedns2.com/]180.184.1.1
 [/bytedns.net/]180.184.1.1
 [/bytednsdoc.com/]180.184.1.1
 [/bytegecko.com/]180.184.1.1
@@ -322,6 +326,8 @@ https://doh.pub/dns-query
 [/bytetos.com/]180.184.1.1
 [/byteurl.cn/]180.184.1.1
 [/bytexservice.com/]180.184.1.1
+[/cdnbuild.net/]180.184.1.1
+[/cdngslb.com/]180.184.1.1
 [/douyin.com/]180.184.1.1
 [/douyincdn.com/]180.184.1.1
 [/douyinliving.com/]180.184.1.1
