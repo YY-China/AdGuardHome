@@ -63,9 +63,9 @@ https://dns.alidns.com/dns-query
 [/urlqh.cn/]https://doh.360.cn/dns-query
 
     # > [Adguard]
-[/adguard.com/]https://dns.cloudflare.com/dns-query
-[/adguard.info/]https://dns.cloudflare.com/dns-query
-[/adguard-dns.io/]https://dns.cloudflare.com/dns-query
+[/adguard.com/]https://1.1.1.1/dns-query
+[/adguard.info/]https://1.1.1.1/dns-query
+[/adguard-dns.io/]https://1.1.1.1/dns-query
 
     # > [Baidu]
 [/91.com/]180.76.76.76
@@ -196,54 +196,54 @@ https://dns.alidns.com/dns-query
 [/zjcdn.com/]180.184.1.1
 
     # > [Cloudflare]
-[/adtidy.org/]https://dns.cloudflare.com/dns-query
-[/cloudflare.com/]https://dns.cloudflare.com/dns-query
-[/cloudflare.net/]https://dns.cloudflare.com/dns-query
-[/cloudflare-dns.com/]https://dns.cloudflare.com/dns-query
-[/cloudflareclient.com/]https://dns.cloudflare.com/dns-query
-[/cloudflareinsights.com/]https://dns.cloudflare.com/dns-query
-[/cloudflaressl.com/]https://dns.cloudflare.com/dns-query
-[/cloudflarestream.com/]https://dns.cloudflare.com/dns-query
-[/comodoca.com/]https://dns.cloudflare.com/dns-query
-[/digicert.cn/]https://dns.cloudflare.com/dns-query
-[/digicert.com/]https://dns.cloudflare.com/dns-query
-[/every1dns.net/]https://dns.cloudflare.com/dns-query
-[/nolanstore.cc/]https://dns.cloudflare.com/dns-query
-[/verisign.com/]https://dns.cloudflare.com/dns-query
-[/workers.dev/]https://dns.cloudflare.com/dns-query
+[/adtidy.org/]https://1.1.1.1/dns-query
+[/cloudflare.com/]https://1.1.1.1/dns-query
+[/cloudflare.net/]https://1.1.1.1/dns-query
+[/cloudflare-dns.com/]https://1.1.1.1/dns-query
+[/cloudflareclient.com/]https://1.1.1.1/dns-query
+[/cloudflareinsights.com/]https://1.1.1.1/dns-query
+[/cloudflaressl.com/]https://1.1.1.1/dns-query
+[/cloudflarestream.com/]https://1.1.1.1/dns-query
+[/comodoca.com/]https://1.1.1.1/dns-query
+[/digicert.cn/]https://1.1.1.1/dns-query
+[/digicert.com/]https://1.1.1.1/dns-query
+[/every1dns.net/]https://1.1.1.1/dns-query
+[/nolanstore.cc/]https://1.1.1.1/dns-query
+[/verisign.com/]https://1.1.1.1/dns-query
+[/workers.dev/]https://1.1.1.1/dns-query
 
     # > [CN-GOV]
 [/gov.cn/]1.2.4.8
 
     # > [Github]
-[/github-atom-io-herokuapp-com.freetls.fastly.net/]https://dns.cloudflare.com/dns-query
-[/github-cloud.s3.amazonaws.com/]https://dns.cloudflare.com/dns-query
-[/atom.io/]https://dns.cloudflare.com/dns-query
-[/dependabot.com/]https://dns.cloudflare.com/dns-query
-[/ghcr.io/]https://dns.cloudflare.com/dns-query
-[/git.io/]https://dns.cloudflare.com/dns-query
-[/github.blog/]https://dns.cloudflare.com/dns-query
-[/github.com/]https://dns.cloudflare.com/dns-query
-[/github.community/]https://dns.cloudflare.com/dns-query
-[/github.dev/]https://dns.cloudflare.com/dns-query
-[/github.io/]https://dns.cloudflare.com/dns-query
-[/githubapp.com/]https://dns.cloudflare.com/dns-query
-[/githubassets.com/]https://dns.cloudflare.com/dns-query
-[/githubhackathon.com/]https://dns.cloudflare.com/dns-query
-[/githubnext.com/]https://dns.cloudflare.com/dns-query
-[/githubpreview.dev/]https://dns.cloudflare.com/dns-query
-[/githubstatus.com/]https://dns.cloudflare.com/dns-query
-[/githubuniverse.com/]https://dns.cloudflare.com/dns-query
-[/githubusercontent.com/]https://dns.cloudflare.com/dns-query
-[/myoctocat.com/]https://dns.cloudflare.com/dns-query
-[/npm.community/]https://dns.cloudflare.com/dns-query
-[/npmjs.com/]https://dns.cloudflare.com/dns-query
-[/npmjs.org/]https://dns.cloudflare.com/dns-query
-[/opensource.guide/]https://dns.cloudflare.com/dns-query
-[/rawgit.com/]https://dns.cloudflare.com/dns-query
-[/rawgithub.com/]https://dns.cloudflare.com/dns-query
-[/repo.new/]https://dns.cloudflare.com/dns-query
-[/thegithubshop.com/]https://dns.cloudflare.com/dns-query
+[/github-atom-io-herokuapp-com.freetls.fastly.net/]https://1.1.1.1/dns-query
+[/github-cloud.s3.amazonaws.com/]https://1.1.1.1/dns-query
+[/atom.io/]https://1.1.1.1/dns-query
+[/dependabot.com/]https://1.1.1.1/dns-query
+[/ghcr.io/]https://1.1.1.1/dns-query
+[/git.io/]https://1.1.1.1/dns-query
+[/github.blog/]https://1.1.1.1/dns-query
+[/github.com/]https://1.1.1.1/dns-query
+[/github.community/]https://1.1.1.1/dns-query
+[/github.dev/]https://1.1.1.1/dns-query
+[/github.io/]https://1.1.1.1/dns-query
+[/githubapp.com/]https://1.1.1.1/dns-query
+[/githubassets.com/]https://1.1.1.1/dns-query
+[/githubhackathon.com/]https://1.1.1.1/dns-query
+[/githubnext.com/]https://1.1.1.1/dns-query
+[/githubpreview.dev/]https://1.1.1.1/dns-query
+[/githubstatus.com/]https://1.1.1.1/dns-query
+[/githubuniverse.com/]https://1.1.1.1/dns-query
+[/githubusercontent.com/]https://1.1.1.1/dns-query
+[/myoctocat.com/]https://1.1.1.1/dns-query
+[/npm.community/]https://1.1.1.1/dns-query
+[/npmjs.com/]https://1.1.1.1/dns-query
+[/npmjs.org/]https://1.1.1.1/dns-query
+[/opensource.guide/]https://1.1.1.1/dns-query
+[/rawgit.com/]https://1.1.1.1/dns-query
+[/rawgithub.com/]https://1.1.1.1/dns-query
+[/repo.new/]https://1.1.1.1/dns-query
+[/thegithubshop.com/]https://1.1.1.1/dns-query
 
     # > [JingDong]
 [/300hu.com/]https://sm2.doh.pub/dns-query
