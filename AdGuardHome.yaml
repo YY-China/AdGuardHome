@@ -28,12 +28,12 @@ dns:
   bootstrap_dns:
     - 0.0.0.0
   fallback_dns: []
-  upstream_mode: fastest_addr
+  upstream_mode: parallel
   fastest_timeout: 1s
   allowed_clients: []
   disallowed_clients: []
   blocked_hosts:
-    - *.lan
+    - '*.lan'
     - hostname.bind
     - id.server
     - version.bind
