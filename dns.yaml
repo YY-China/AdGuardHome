@@ -144,8 +144,6 @@ https://dns.alidns.com/dns-query
 [/bytetos.com/]180.184.1.1
 [/byteurl.cn/]180.184.1.1
 [/bytexservice.com/]180.184.1.1
-[/cdnbuild.net/]180.184.1.1
-[/cdngslb.com/]180.184.1.1
 [/douyin.com/]180.184.1.1
 [/douyincdn.com/]180.184.1.1
 [/douyinliving.com/]180.184.1.1
@@ -210,8 +208,8 @@ https://dns.alidns.com/dns-query
 [/cloudflaressl.com/]https://1.1.1.1/dns-query
 [/cloudflarestream.com/]https://1.1.1.1/dns-query
 [/comodoca.com/]https://1.1.1.1/dns-query
-[/digicert.cn/]https://1.1.1.1/dns-query
 [/digicert.com/]https://1.1.1.1/dns-query
+[/digicertdns.com/]https://1.1.1.1/dns-query
 [/every1dns.net/]https://1.1.1.1/dns-query
 [/nolanstore.cc/]https://1.1.1.1/dns-query
 [/unpkg.com/]https://1.1.1.1/dns-query
