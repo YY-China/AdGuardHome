@@ -72,6 +72,7 @@ https://dns.alidns.com/dns-query
     # > [Baidu]
 [/91.com/]180.76.76.76
 [/baidu.com/]180.76.76.76
+[/baiduads.com/]180.76.76.76
 [/baidubce.cn/]180.76.76.76
 [/baidubce.com/]180.76.76.76
 [/baidupcs.cn/]180.76.76.76
@@ -291,6 +292,8 @@ https://dns.alidns.com/dns-query
 [/dcloudlive.com/]https://sm2.doh.pub/dns-query
 [/dnsapi.cn/]https://sm2.doh.pub/dns-query
 [/dnspod.cn/]https://sm2.doh.pub/dns-query
+[/dnspod.com/]https://sm2.doh.pub/dns-query
+[/dnspod.net/]https://sm2.doh.pub/dns-query
 [/gtimg.cn/]https://sm2.doh.pub/dns-query
 [/gtimg.com/]https://sm2.doh.pub/dns-query
 [/huaixin88.com/]https://sm2.doh.pub/dns-query
@@ -355,6 +358,7 @@ https://dns.alidns.com/dns-query
 [/webankwealth.com/]https://sm2.doh.pub/dns-query
 [/webankwealthcdn.net/]https://sm2.doh.pub/dns-query
 [/wechat.com/]https://sm2.doh.pub/dns-query
+[/weiling.cn/]https://sm2.doh.pub/dns-query
 [/weixin.com/]https://sm2.doh.pub/dns-query
 [/weixinbridge.com/]https://sm2.doh.pub/dns-query
 [/weiyun.com/]https://sm2.doh.pub/dns-query
