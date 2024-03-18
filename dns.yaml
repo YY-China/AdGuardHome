@@ -200,6 +200,13 @@ https://dns.alidns.com/dns-query
 
 
  # > [Cloudflare_DNS]
+
+  # > (Adguard)
+[/adguard-dns.io/]https://1.1.1.1/dns-query
+[/adguard.com/]https://1.1.1.1/dns-query
+[/adguard.info/]https://1.1.1.1/dns-query
+[/agrd.eu/]https://1.1.1.1/dns-query
+
   # > (CDN)
 [/fastgit.org/]https://1.1.1.1/dns-query
 [/jsdelivr.net/]https://1.1.1.1/dns-query
@@ -225,12 +232,6 @@ https://dns.alidns.com/dns-query
 [/unpkg.com/]https://1.1.1.1/dns-query
 [/verisign.com/]https://1.1.1.1/dns-query
 [/workers.dev/]https://1.1.1.1/dns-query
-
-  # > (Adguard)
-[/adguard-dns.io/]https://1.1.1.1/dns-query
-[/adguard.com/]https://1.1.1.1/dns-query
-[/adguard.info/]https://1.1.1.1/dns-query
-[/agrd.eu/]https://1.1.1.1/dns-query
 
   # > (Github)
 [/atom.io/]https://1.1.1.1/dns-query
@@ -261,6 +262,14 @@ https://dns.alidns.com/dns-query
 [/rawgithub.com/]https://1.1.1.1/dns-query
 [/repo.new/]https://1.1.1.1/dns-query
 [/thegithubshop.com/]https://1.1.1.1/dns-query
+
+  # > (Linux)
+[/debian.com/]https://1.1.1.1/dns-query
+[/debian.net/]https://1.1.1.1/dns-query
+[/debian.org/]https://1.1.1.1/dns-query
+[/ubuntu.com/]https://1.1.1.1/dns-query
+[/ubuntu.net/]https://1.1.1.1/dns-query
+[/ubuntu.org/]https://1.1.1.1/dns-query
 
   # > (Trackers)
 [/0g.cx/]https://1.1.1.1/dns-query
@@ -402,8 +411,10 @@ https://dns.alidns.com/dns-query
 [/tracker.wf/]https://1.1.1.1/dns-query
 [/trackerslist.com/]https://1.1.1.1/dns-query
 [/trancetraffic.com/]https://1.1.1.1/dns-query
+[/transmissionbt.com/]https://1.1.1.1/dns-query
 [/tribalmixes.com/]https://1.1.1.1/dns-query
 [/tvnihon.com/]https://1.1.1.1/dns-query
+[/umu.se/]https://1.1.1.1/dns-query
 [/unionpeer.org/]https://1.1.1.1/dns-query
 [/vraphim.com/]https://1.1.1.1/dns-query
 [/wareztorrent.com/]https://1.1.1.1/dns-query
