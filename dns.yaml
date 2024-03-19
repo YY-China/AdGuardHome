@@ -200,19 +200,34 @@ https://dns.alidns.com/dns-query
 
 
  # > [Cloudflare_DNS]
+  # > (?)
+[/ajay.app/]https://1.1.1.1/dns-query
+[/comodoca.com/]https://1.1.1.1/dns-query
+[/eu.org/]https://1.1.1.1/dns-query
+[/gbsat.org/]https://1.1.1.1/dns-query
+[/ipify.org/]https://1.1.1.1/dns-query
+[/lencr.org/]https://1.1.1.1/dns-query
+[/nolanstore.cc/]https://1.1.1.1/dns-query
+[/unpkg.com/]https://1.1.1.1/dns-query
+[/verisign.com/]https://1.1.1.1/dns-query
 
-  # > (Adguard)
+  # > (AdBlock)
 [/adguard-dns.io/]https://1.1.1.1/dns-query
 [/adguard.com/]https://1.1.1.1/dns-query
 [/adguard.info/]https://1.1.1.1/dns-query
 [/agrd.eu/]https://1.1.1.1/dns-query
+[/adtidy.org/]https://1.1.1.1/dns-query
+
+  # > (Anki)
+[/ankiweb.net/]https://1.1.1.1/dns-query
 
   # > (CDN)
 [/fastgit.org/]https://1.1.1.1/dns-query
 [/jsdelivr.net/]https://1.1.1.1/dns-query
+[/stripe.com/]https://1.1.1.1/dns-query
+[/stripe.network/]https://1.1.1.1/dns-query
 
   # > (Cloudflare)
-[/adtidy.org/]https://1.1.1.1/dns-query
 [/cloudflare-dns.com/]https://1.1.1.1/dns-query
 [/cloudflare.com/]https://1.1.1.1/dns-query
 [/cloudflare.net/]https://1.1.1.1/dns-query
@@ -220,17 +235,11 @@ https://dns.alidns.com/dns-query
 [/cloudflareinsights.com/]https://1.1.1.1/dns-query
 [/cloudflaressl.com/]https://1.1.1.1/dns-query
 [/cloudflarestream.com/]https://1.1.1.1/dns-query
-[/comodoca.com/]https://1.1.1.1/dns-query
 [/digicert.com/]https://1.1.1.1/dns-query
 [/digicertdns.com/]https://1.1.1.1/dns-query
 [/digicertdns.net/]https://1.1.1.1/dns-query
-[/eu.org/]https://1.1.1.1/dns-query
 [/every1dns.net/]https://1.1.1.1/dns-query
-[/gbsat.org/]https://1.1.1.1/dns-query
-[/nolanstore.cc/]https://1.1.1.1/dns-query
 [/pages.dev/]https://1.1.1.1/dns-query
-[/unpkg.com/]https://1.1.1.1/dns-query
-[/verisign.com/]https://1.1.1.1/dns-query
 [/workers.dev/]https://1.1.1.1/dns-query
 
   # > (Github)
@@ -270,6 +279,11 @@ https://dns.alidns.com/dns-query
 [/ubuntu.com/]https://1.1.1.1/dns-query
 [/ubuntu.net/]https://1.1.1.1/dns-query
 [/ubuntu.org/]https://1.1.1.1/dns-query
+
+  # > (Spartan)
+[/hcaptcha.com/]https://1.1.1.1/dns-query
+[/livechatinc.com/]https://1.1.1.1/dns-query
+[/spartanhost.net/]https://1.1.1.1/dns-query
 
   # > (Trackers)
 [/0g.cx/]https://1.1.1.1/dns-query
