@@ -224,6 +224,7 @@ https://dns.alidns.com/dns-query
   # > (CDN)
 [/fastgit.org/]https://1.1.1.1/dns-query
 [/jsdelivr.net/]https://1.1.1.1/dns-query
+[/phicdn.net/]https://1.1.1.1/dns-query
 [/stripe.com/]https://1.1.1.1/dns-query
 [/stripe.network/]https://1.1.1.1/dns-query
 
