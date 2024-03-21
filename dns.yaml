@@ -143,6 +143,7 @@ https://dns.alidns.com/dns-query
 [/bytetos.com/]180.184.1.1
 [/byteurl.cn/]180.184.1.1
 [/bytexservice.com/]180.184.1.1
+[/cdngslb.com/]180.184.1.1
 [/douyin.com/]180.184.1.1
 [/douyincdn.com/]180.184.1.1
 [/douyinliving.com/]180.184.1.1
@@ -162,7 +163,9 @@ https://dns.alidns.com/dns-query
 [/iesdouyin.com/]180.184.1.1
 [/ihuoshanlive.com/]180.184.1.1
 [/ixigua.com/]180.184.1.1
-[/kspkg.com/]180.184.1.1
+[/ks-cdn.com/]180.184.1.1
+[/ksycdn.cn/]180.184.1.1
+[/ksyuncdn.com/]180.184.1.1
 [/pangolin-dsp-toutiao.com/]180.184.1.1
 [/pangolin-sdk-toutiao.com/]180.184.1.1
 [/pangolin-sdk-toutiao1.com/]180.184.1.1
@@ -175,6 +178,10 @@ https://dns.alidns.com/dns-query
 [/pangolin-sdk-toutiao8.com/]180.184.1.1
 [/pangolin-sdk-toutiao9.com/]180.184.1.1
 [/pstatp.com/]180.184.1.1
+[/queniucf.com/]180.184.1.1
+[/queniufm.com/]180.184.1.1
+[/queniuiq.com/]180.184.1.1
+[/queniurc.com/]180.184.1.1
 [/snssdk.com/]180.184.1.1
 [/supercachenet.com/]180.184.1.1
 [/toutiao.com/]180.184.1.1
@@ -191,6 +198,7 @@ https://dns.alidns.com/dns-query
 [/volcfcdndvs.com/]180.184.1.1
 [/volcgslb.com/]180.184.1.1
 [/volcgtm.com/]180.184.1.1
+[/wsdvs.com/]180.184.1.1
 [/wukong.com/]180.184.1.1
 [/zijieapi.com/]180.184.1.1
 [/zijieimg.com/]180.184.1.1
