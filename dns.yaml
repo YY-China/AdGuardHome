@@ -226,6 +226,10 @@ https://dns.alidns.com/dns-query
 [/agrd.eu/]https://1.1.1.1/dns-query
 [/adtidy.org/]https://1.1.1.1/dns-query
 
+  # > (Amazon)
+[/amazonaws.com/]https://1.1.1.1/dns-query
+[/fontawesome.com/]https://1.1.1.1/dns-query
+
   # > (Anki)
 [/ankiweb.net/]https://1.1.1.1/dns-query
 
@@ -257,7 +261,6 @@ https://dns.alidns.com/dns-query
 [/ghcr.io/]https://1.1.1.1/dns-query
 [/git.io/]https://1.1.1.1/dns-query
 [/github-atom-io-herokuapp-com.freetls.fastly.net/]https://1.1.1.1/dns-query
-[/github-cloud.s3.amazonaws.com/]https://1.1.1.1/dns-query
 [/github.blog/]https://1.1.1.1/dns-query
 [/github.com/]https://1.1.1.1/dns-query
 [/github.community/]https://1.1.1.1/dns-query
@@ -312,7 +315,6 @@ https://dns.alidns.com/dns-query
 [/ali213.net/]https://1.1.1.1/dns-query
 [/all4nothin.net/]https://1.1.1.1/dns-query
 [/alltorrents.net/]https://1.1.1.1/dns-query
-[/amazonaws.com/]https://1.1.1.1/dns-query
 [/anifilm.tv/]https://1.1.1.1/dns-query
 [/anima.nz/]https://1.1.1.1/dns-query
 [/anirena.com/]https://1.1.1.1/dns-query
