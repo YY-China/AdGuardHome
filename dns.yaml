@@ -298,6 +298,10 @@ https://dns.alidns.com/dns-query
 [/ubuntu.net/]https://1.1.1.1/dns-query
 [/ubuntu.org/]https://1.1.1.1/dns-query
 
+  # > (Paypal)
+[/paypal.com/]https://1.1.1.1/dns-query
+[/paypalobjects.com/]https://1.1.1.1/dns-query
+
   # > (Spartan)
 [/hcaptcha.com/]https://1.1.1.1/dns-query
 [/livechatinc.com/]https://1.1.1.1/dns-query
