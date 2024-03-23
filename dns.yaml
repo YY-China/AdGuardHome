@@ -213,8 +213,10 @@ https://dns.alidns.com/dns-query
 [/comodoca.com/]https://1.1.1.1/dns-query
 [/eu.org/]https://1.1.1.1/dns-query
 [/gbsat.org/]https://1.1.1.1/dns-query
+[/glpals.com/]https://1.1.1.1/dns-query
 [/ipify.org/]https://1.1.1.1/dns-query
 [/lencr.org/]https://1.1.1.1/dns-query
+[/net.ru/]https://1.1.1.1/dns-query
 [/nolanstore.cc/]https://1.1.1.1/dns-query
 [/unpkg.com/]https://1.1.1.1/dns-query
 [/verisign.com/]https://1.1.1.1/dns-query
@@ -255,12 +257,15 @@ https://dns.alidns.com/dns-query
 [/pages.dev/]https://1.1.1.1/dns-query
 [/workers.dev/]https://1.1.1.1/dns-query
 
+  # > (Fastly)
+[/fastly.net/]https://1.1.1.1/dns-query
+[/gentoo.org/]https://1.1.1.1/dns-query
+
   # > (Github)
 [/atom.io/]https://1.1.1.1/dns-query
 [/dependabot.com/]https://1.1.1.1/dns-query
 [/ghcr.io/]https://1.1.1.1/dns-query
 [/git.io/]https://1.1.1.1/dns-query
-[/github-atom-io-herokuapp-com.freetls.fastly.net/]https://1.1.1.1/dns-query
 [/github.blog/]https://1.1.1.1/dns-query
 [/github.com/]https://1.1.1.1/dns-query
 [/github.community/]https://1.1.1.1/dns-query
@@ -285,6 +290,7 @@ https://dns.alidns.com/dns-query
 [/thegithubshop.com/]https://1.1.1.1/dns-query
 
   # > (Linux)
+[/archlinux.org/]https://1.1.1.1/dns-query
 [/debian.com/]https://1.1.1.1/dns-query
 [/debian.net/]https://1.1.1.1/dns-query
 [/debian.org/]https://1.1.1.1/dns-query
