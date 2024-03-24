@@ -299,8 +299,16 @@ https://dns.alidns.com/dns-query
 [/ubuntu.org/]https://1.1.1.1/dns-query
 
   # > (Paypal)
+[/adjust.com/]https://1.1.1.1/dns-query
+[/adjust.works/]https://1.1.1.1/dns-query
+[/adjust.world/]https://1.1.1.1/dns-query
+[/betacdn.net/]https://1.1.1.1/dns-query
+[/browser-intake-datadoghq.com/]https://1.1.1.1/dns-query
+[/dyneti.com/]https://1.1.1.1/dns-query
+[/nsone.net/]https://1.1.1.1/dns-query
 [/paypal.com/]https://1.1.1.1/dns-query
 [/paypalobjects.com/]https://1.1.1.1/dns-query
+[/revenuecat.com/]https://1.1.1.1/dns-query
 
   # > (Spartan)
 [/hcaptcha.com/]https://1.1.1.1/dns-query
