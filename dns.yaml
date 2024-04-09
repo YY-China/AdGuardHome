@@ -909,6 +909,10 @@ https://dns.alidns.com/dns-query
 [/gitter-static.net/]https://1.1.1.1/dns-query
 [/gitter.im/]https://1.1.1.1/dns-query
 
+  # > (Ip List)
+[/apnic.net/]https://1.1.1.1/dns-query
+[/ipdeny.com/]https://1.1.1.1/dns-query
+
   # > (Jquery)
 [/jquery.com/]https://1.1.1.1/dns-query
 [/jquerymobile.com/]https://1.1.1.1/dns-query
