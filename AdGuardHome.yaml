@@ -59,7 +59,7 @@ dns:
     custom_ip: ""
     enabled: false
     use_custom: false
-  max_goroutines: 300
+  max_goroutines: 600
   handle_ddr: true
   ipset: []
   ipset_file: ""
@@ -73,13 +73,14 @@ dns:
   serve_http3: false
   use_http3_upstreams: false
   serve_plain_dns: true
+  hostsfile_enabled: true
 tls:
   enabled: false
   server_name: ""
   force_https: false
-  port_https: 443
-  port_dns_over_tls: 853
-  port_dns_over_quic: 853
+  port_https: 33334
+  port_dns_over_tls: 0
+  port_dns_over_quic: 0
   port_dnscrypt: 0
   dnscrypt_config_file: ""
   allow_unencrypted_doh: false
@@ -89,28 +90,18 @@ tls:
   private_key_path: ""
   strict_sni_check: false
 querylog:
+  dir_path: ""
   ignored: []
   interval: 1h
   size_memory: 1000
   enabled: true
   file_enabled: true
 statistics:
+  dir_path: ""
   ignored: []
   interval: 1h
   enabled: true
-filters:
-  - enabled: true
-    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt
-    name: 'CHN: AdRules DNS List'
-    id: 1709993681
-  - enabled: true
-    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_21.txt
-    name: 'CHN: anti-AD'
-    id: 1709993682
-  - enabled: true
-    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
-    name: AdGuard DNS filter
-    id: 1709993683
+filters: []
 whitelist_filters: []
 user_rules:
   - '||_vlmcs._tcp.lan^$dnsrewrite=NOERROR;SRV;0 100 1688 my.router'
@@ -150,7 +141,6 @@ filtering:
       - telegram
       - twitter
       - youtube
-      - xboxlive
       - whatsapp
       - spotify
       - skype
@@ -172,9 +162,9 @@ filtering:
   safesearch_cache_size: 1048576
   parental_cache_size: 1048576
   cache_time: 30
-  filters_update_interval: 24
-  blocked_response_ttl: 60
-  filtering_enabled: true
+  filters_update_interval: 0
+  blocked_response_ttl: 600
+  filtering_enabled: false
   parental_enabled: false
   safebrowsing_enabled: false
   protection_enabled: true
