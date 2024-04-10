@@ -105,6 +105,10 @@ filters: []
 whitelist_filters: []
 user_rules:
   - '||_vlmcs._tcp.lan^$dnsrewrite=NOERROR;SRV;0 100 1688 my.router'
+  - '@@||*^$client=''10.10.10.1'''
+  - '@@||*^$client=''10.10.10.2'''
+  - '@@||*^$client=''10.10.10.3'''
+  - '@@||*^$client=''10.10.10.4'''
   - ""
 dhcp:
   enabled: false
