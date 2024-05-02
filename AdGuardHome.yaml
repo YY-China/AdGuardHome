@@ -107,7 +107,7 @@ user_rules:
   - '@@||*^$client=''10.10.10.2'''
   - '@@||*^$client=''10.10.10.3'''
   - '@@||*^$client=''10.10.10.4'''
-  - ""
+  - '@@||stats.qiumibao.com'
 dhcp:
   enabled: false
   interface_name: ""
