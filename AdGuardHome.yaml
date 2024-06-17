@@ -3,10 +3,10 @@ http:
     port: 6060
     enabled: false
   address: 0.0.0.0:33333
-  session_ttl: 600h
+  session_ttl: 1h
 users:
   - name: xiaoyangzai
-    password: $2a$10$uSnuAGmT2KHkxB3VHo32R.cXt2WXBUV5V7ghwdEtuM0gLi4GxPPLa
+    password: $2a$10$P13aqABfRSJH/KXZAbUC1eEy/HUI1r4lVs2zLrJwe28QriHkIZ.TS
 auth_attempts: 5
 block_auth_min: 15
 http_proxy: ""
@@ -18,8 +18,6 @@ dns:
   port: 5353
   anonymize_client_ip: false
   ratelimit: 0
-  ratelimit_subnet_len_ipv4: 24
-  ratelimit_subnet_len_ipv6: 56
   ratelimit_whitelist: []
   refuse_any: true
   upstream_dns:
@@ -28,22 +26,15 @@ dns:
   bootstrap_dns:
     - 0.0.0.0
   fallback_dns: []
-  upstream_mode: parallel
+  all_servers: true
+  fastest_addr: false
   fastest_timeout: 1s
   allowed_clients: []
   disallowed_clients: []
   blocked_hosts:
-    - hostname.bind
-    - id.server
     - version.bind
-    - app.drivereasy.com
-    - us.wondershare.com
-    - www.google.com
-    - facebook.com
-    - openai.com
-    - twitter.com
-    - youtube.com
-    - fiddler2.com
+    - id.server
+    - hostname.bind
   trusted_proxies:
     - 127.0.0.0/8
     - ::1/128
@@ -56,9 +47,9 @@ dns:
   enable_dnssec: true
   edns_client_subnet:
     custom_ip: ""
-    enabled: false
+    enabled: true
     use_custom: false
-  max_goroutines: 600
+  max_goroutines: 300
   handle_ddr: true
   ipset: []
   ipset_file: ""
@@ -71,8 +62,6 @@ dns:
   dns64_prefixes: []
   serve_http3: false
   use_http3_upstreams: false
-  serve_plain_dns: true
-  hostsfile_enabled: true
 tls:
   enabled: false
   server_name: ""
@@ -89,18 +78,24 @@ tls:
   private_key_path: ""
   strict_sni_check: false
 querylog:
-  dir_path: ""
   ignored: []
   interval: 1h
   size_memory: 1000
   enabled: true
   file_enabled: true
 statistics:
-  dir_path: ""
   ignored: []
   interval: 1h
   enabled: true
-filters: []
+filters:
+  - enabled: true
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt
+    name: 'CHN: AdRules DNS List'
+    id: 1717683270
+  - enabled: true
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_21.txt
+    name: 'CHN: anti-AD'
+    id: 1717683271
 whitelist_filters: []
 user_rules:
   - '||_vlmcs._tcp.lan^$dnsrewrite=NOERROR;SRV;0 100 1688 my.router'
@@ -161,9 +156,9 @@ filtering:
   safesearch_cache_size: 1048576
   parental_cache_size: 1048576
   cache_time: 30
-  filters_update_interval: 0
+  filters_update_interval: 24
   blocked_response_ttl: 600
-  filtering_enabled: false
+  filtering_enabled: true
   parental_enabled: false
   safebrowsing_enabled: false
   protection_enabled: true
@@ -187,4 +182,4 @@ os:
   group: ""
   user: ""
   rlimit_nofile: 0
-schema_version: 28
+schema_version: 27
