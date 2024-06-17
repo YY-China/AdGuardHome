@@ -573,6 +573,7 @@ h3://dns.alidns.com/dns-query
   # > (?)
 [/ajay.app/]https://1.1.1.1/dns-query
 [/ampproject.org/]https://1.1.1.1/dns-query
+[/atimaze.com/]https://1.1.1.1/dns-query
 [/cafebazaar.ir/]https://1.1.1.1/dns-query
 [/comodoca.com/]https://1.1.1.1/dns-query
 [/devuploads.com/]https://1.1.1.1/dns-query
