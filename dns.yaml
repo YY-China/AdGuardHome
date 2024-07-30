@@ -18,6 +18,10 @@ h3://dns.alidns.com/dns-query
 [/xiaoyangzai.cn/]https://doh.pub/dns-query
 
 
+#【Captive Portal】
+[/gstatic.com/]180.76.76.76
+
+
 
 
 #【DNS Diversion】
@@ -302,8 +306,7 @@ h3://dns.alidns.com/dns-query
 [/yunpan.com/]https://doh.360.cn/dns-query
 [/yunpan.com.cn/]https://doh.360.cn/dns-query
 
-  # > (Android)
-[/gstatic.com/]https://doh.360.cn/dns-query
+
 
  # > [Baidu_DNS]
   # > (Baidu)
