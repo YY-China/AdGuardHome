@@ -302,7 +302,8 @@ h3://dns.alidns.com/dns-query
 [/yunpan.com/]https://doh.360.cn/dns-query
 [/yunpan.com.cn/]https://doh.360.cn/dns-query
 
-
+  # > (Android)
+[/gstatic.com/]https://doh.360.cn/dns-query
 
  # > [Baidu_DNS]
   # > (Baidu)
@@ -1431,9 +1432,6 @@ h3://dns.alidns.com/dns-query
 [/116cd.net/]https://doh.pub/dns-query
 [/anxia.com/]https://doh.pub/dns-query
 [/sq.cc/]https://doh.pub/dns-query
-
-  # > (Android)
-[/gstatic.com/]https://doh.pub/dns-query
 
   # > (BiliBili)
 [/upos-sz-mirrorcos.bilivideo.com/]https://doh.pub/dns-query
