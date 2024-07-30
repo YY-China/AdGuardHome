@@ -1432,6 +1432,9 @@ h3://dns.alidns.com/dns-query
 [/anxia.com/]https://doh.pub/dns-query
 [/sq.cc/]https://doh.pub/dns-query
 
+  # > (Android)
+[/gstatic.com/]https://doh.pub/dns-query
+
   # > (BiliBili)
 [/upos-sz-mirrorcos.bilivideo.com/]https://doh.pub/dns-query
 [/upos-sz-upcdntx.bilivideo.com/]https://doh.pub/dns-query
