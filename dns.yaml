@@ -11,8 +11,9 @@
 [/dot.pub/]https://1.12.12.12/dns-query
 
  # > [Cloudflare_DNS]
-[/cloudflare.com/]https://1.1.1.1/dns-query
-[/cloudflare-dns.com/]https://1.1.1.1/dns-query
+[/dns.cloudflare.com/]https://1.1.1.1/dns-query
+[/family.cloudflare-dns.com/]https://1.1.1.1/dns-query
+[/security.cloudflare-dns.com/]https://1.1.1.1/dns-query
 
 
 
@@ -814,6 +815,8 @@ h3://dns.alidns.com/dns-query
 
   # > (Cloudflare)
 [/cf-ipfs.com/]https://security.cloudflare-dns.com/dns-query
+[/cloudflare.com/]https://security.cloudflare-dns.com/dns-query
+[/cloudflare-dns.com/]https://security.cloudflare-dns.com/dns-query
 [/cloudflare-ipfs.com/]https://security.cloudflare-dns.com/dns-query
 [/cloudflare-quic.com/]https://security.cloudflare-dns.com/dns-query
 [/cloudflare.net/]https://security.cloudflare-dns.com/dns-query
