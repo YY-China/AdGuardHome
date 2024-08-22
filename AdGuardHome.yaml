@@ -106,6 +106,8 @@ user_rules:
   - '@@||stats.qiumibao.com'
   - '@@||cdn.staticfile.org'
   - '@@||cdn.staticfile.net'
+  - '@@||doubleclick.net^$client=''10.10.10.10'''
+  - '@@||googlesyndication.com^$client=''10.10.10.10'''
 dhcp:
   enabled: false
   interface_name: ""
