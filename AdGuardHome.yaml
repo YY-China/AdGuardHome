@@ -88,7 +88,7 @@ statistics:
   interval: 1h
   enabled: true
 filters:
-  - enabled: true
+  - enabled: false
     url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_29.txt
     name: 'CHN: AdRules DNS List'
     id: 1717683270
