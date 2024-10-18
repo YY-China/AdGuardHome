@@ -19,7 +19,7 @@ dns:
   anonymize_client_ip: false
   ratelimit: 1000
   ratelimit_subnet_len_ipv4: 24
-  ratelimit_subnet_len_ipv6: 64
+  ratelimit_subnet_len_ipv6: 56
   ratelimit_whitelist: []
   refuse_any: true
   upstream_dns:
