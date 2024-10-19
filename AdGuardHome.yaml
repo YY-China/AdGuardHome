@@ -164,7 +164,7 @@ filtering:
   safesearch_cache_size: 1048576
   parental_cache_size: 1048576
   cache_time: 30
-  filters_update_interval: 24
+  filters_update_interval: 72
   blocked_response_ttl: 600
   filtering_enabled: true
   parental_enabled: false
