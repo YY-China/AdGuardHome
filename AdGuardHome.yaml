@@ -46,7 +46,7 @@ dns:
   cache_size: 8388608
   cache_ttl_min: 600
   cache_ttl_max: 86400
-  cache_optimistic: false
+  cache_optimistic: true
   bogus_nxdomain: []
   aaaa_disabled: false
   enable_dnssec: true
