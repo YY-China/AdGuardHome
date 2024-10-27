@@ -36,6 +36,9 @@ dns:
     - version.bind
     - id.server
     - hostname.bind
+    - www.google.com
+    - play.google.com
+    - mtalk.google.com
   trusted_proxies:
     - 127.0.0.0/8
     - ::1/128
