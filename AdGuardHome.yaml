@@ -36,16 +36,12 @@ dns:
     - version.bind
     - id.server
     - hostname.bind
-    - www.google.com
-    - play.google.com
-    - mtalk.google.com
-    - googlevideo.com
   trusted_proxies:
     - 127.0.0.0/8
     - ::1/128
-  cache_size: 8388608
-  cache_ttl_min: 600
-  cache_ttl_max: 86400
+  cache_size: 1048576
+  cache_ttl_min: 0
+  cache_ttl_max: 0
   cache_optimistic: true
   bogus_nxdomain: []
   aaaa_disabled: false
@@ -104,15 +100,12 @@ filters:
 whitelist_filters: []
 user_rules:
   - '||_vlmcs._tcp.lan^$dnsrewrite=NOERROR;SRV;0 100 1688 my.router'
-  - '@@||*^$client=''10.10.10.1'''
-  - '@@||*^$client=''10.10.10.2'''
-  - '@@||*^$client=''10.10.10.3'''
   - '@@||*^$client=''10.10.10.4'''
   - '@@||stats.qiumibao.com'
   - '@@||cdn.staticfile.org'
   - '@@||cdn.staticfile.net'
-  - '@@||doubleclick.net^$client=''10.10.10.10'''
-  - '@@||googlesyndication.com^$client=''10.10.10.10'''
+  - '@@||doubleclick.net^$client=''10.10.10.1'''
+  - '@@||googlesyndication.com^$client=''10.10.10.1'''
 dhcp:
   enabled: false
   interface_name: ""
@@ -169,7 +162,7 @@ filtering:
   parental_cache_size: 1048576
   cache_time: 30
   filters_update_interval: 72
-  blocked_response_ttl: 600
+  blocked_response_ttl: 86400
   filtering_enabled: true
   parental_enabled: false
   safebrowsing_enabled: false
