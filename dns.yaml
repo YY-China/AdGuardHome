@@ -577,7 +577,7 @@ h3://dns.alidns.com/dns-query
 
 
 
- # > [Cloudflare_DNS]
+ # > [0ms_DNS]
   # > (?)
 [/ajay.app/]h3://0ms.dev/dns-query
 [/ampproject.org/]h3://0ms.dev/dns-query
@@ -604,6 +604,7 @@ h3://dns.alidns.com/dns-query
 [/net.ru/]h3://0ms.dev/dns-query
 [/nolanstore.cc/]h3://0ms.dev/dns-query
 [/or.cz/]h3://0ms.dev/dns-query
+[/pm2.io/]h3://0ms.dev/dns-query
 [/rockmods.net/]h3://0ms.dev/dns-query
 [/thecubexguide.com/]h3://0ms.dev/dns-query
 [/unpkg.com/]h3://0ms.dev/dns-query
