@@ -620,14 +620,6 @@ h3://dns.alidns.com/dns-query
 [/agrd.eu/]h3://0ms.dev/dns-query
 [/adtidy.org/]h3://0ms.dev/dns-query
 
-  # > (Akamai)
-[/akamai.com/]h3://0ms.dev/dns-query
-[/akamai.net/]h3://0ms.dev/dns-query
-[/akamaized.net/]h3://0ms.dev/dns-query
-[/akamaiedge.net/]h3://0ms.dev/dns-query
-[/akamaihd.net/]h3://0ms.dev/dns-query
-[/akamaistream.net/]h3://0ms.dev/dns-query
-
   # > (Amazon)
 [/a2z.com/]h3://0ms.dev/dns-query
 [/aboutamazon.cn/]h3://0ms.dev/dns-query
