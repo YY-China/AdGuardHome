@@ -591,7 +591,6 @@ h3://dns.alidns.com/dns-query
 [/eu.org/]h3://0ms.dev/dns-query
 [/file.garden/]h3://0ms.dev/dns-query
 [/fontawesome.com/]h3://0ms.dev/dns-query
-[/gbsat.org/]h3://0ms.dev/dns-query
 [/glpals.com/]h3://0ms.dev/dns-query
 [/iframe.ly/]h3://0ms.dev/dns-query
 [/ipify.org/]h3://0ms.dev/dns-query
@@ -1212,6 +1211,11 @@ h3://dns.alidns.com/dns-query
 [/hcaptcha.com/]h3://0ms.dev/dns-query
 [/livechatinc.com/]h3://0ms.dev/dns-query
 [/spartanhost.net/]h3://0ms.dev/dns-query
+
+  # > (Tracker)
+[/gbsat.org/]h3://0ms.dev/dns-query
+[/trackerslist.com/]h3://0ms.dev/dns-query
+[/vercel.app/]h3://0ms.dev/dns-query
 
 
 
