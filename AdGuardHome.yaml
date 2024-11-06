@@ -53,7 +53,7 @@ dns:
     custom_ip: ""
     enabled: true
     use_custom: false
-  max_goroutines: 300
+  max_goroutines: 100
   handle_ddr: true
   ipset: []
   ipset_file: ""
