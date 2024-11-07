@@ -802,6 +802,12 @@ h3://dns.alidns.com/dns-query
   # > (Anki)
 [/ankiweb.net/]h3://0ms.dev/dns-query
 
+  # > (BT_Download)
+[/gbsat.org/]h3://0ms.dev/dns-query
+[/now.sh/]h3://0ms.dev/dns-query
+[/trackerslist.com/]h3://0ms.dev/dns-query
+[/vercel.app/]h3://0ms.dev/dns-query
+
   # > (CDN)
 [/esm.run/]h3://0ms.dev/dns-query
 [/fastgit.org/]h3://0ms.dev/dns-query
@@ -1211,11 +1217,6 @@ h3://dns.alidns.com/dns-query
 [/hcaptcha.com/]h3://0ms.dev/dns-query
 [/livechatinc.com/]h3://0ms.dev/dns-query
 [/spartanhost.net/]h3://0ms.dev/dns-query
-
-  # > (Tracker)
-[/gbsat.org/]h3://0ms.dev/dns-query
-[/trackerslist.com/]h3://0ms.dev/dns-query
-[/vercel.app/]h3://0ms.dev/dns-query
 
 
 
