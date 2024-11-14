@@ -18,8 +18,6 @@ dns:
   port: 54
   anonymize_client_ip: false
   ratelimit: 100
-  ratelimit_subnet_len_ipv4: 24
-  ratelimit_subnet_len_ipv6: 56
   ratelimit_whitelist: []
   refuse_any: true
   upstream_dns:
@@ -28,7 +26,8 @@ dns:
   bootstrap_dns:
     - 0.0.0.0
   fallback_dns: []
-  upstream_mode: parallel
+  all_servers: true
+  fastest_addr: false
   fastest_timeout: 1s
   allowed_clients: []
   disallowed_clients: []
@@ -67,8 +66,6 @@ dns:
   dns64_prefixes: []
   serve_http3: false
   use_http3_upstreams: false
-  serve_plain_dns: true
-  hostsfile_enabled: true
 tls:
   enabled: false
   server_name: ""
@@ -85,14 +82,12 @@ tls:
   private_key_path: ""
   strict_sni_check: false
 querylog:
-  dir_path: ""
   ignored: []
   interval: 1h
   size_memory: 1000
   enabled: true
   file_enabled: true
 statistics:
-  dir_path: ""
   ignored: []
   interval: 1h
   enabled: true
@@ -196,29 +191,11 @@ filtering:
       - vk
       - voot
       - wizz
-      - 4chan
-      - bluesky
-      - box
-      - canais_globo
-      - discoveryplus
-      - dropbox
-      - globoplay
-      - kook
-      - lionsgateplus
-      - looke
-      - nebula
-      - olvid
-      - peacock_tv
-      - privacy
-      - roblox
-      - samsung_tv_plus
-      - slack
   protection_disabled_until: null
   safe_search:
     enabled: false
     bing: true
     duckduckgo: true
-    ecosia: true
     google: true
     pixabay: true
     yandex: true
@@ -227,8 +204,6 @@ filtering:
   parental_block_host: family-block.dns.adguard.com
   safebrowsing_block_host: standard-block.dns.adguard.com
   rewrites: []
-  safe_fs_patterns:
-    - /media/AiDisk_a1/AdGuardHome/data/userfilters/*
   safebrowsing_cache_size: 1048576
   safesearch_cache_size: 1048576
   parental_cache_size: 1048576
@@ -248,7 +223,6 @@ clients:
     hosts: true
   persistent: []
 log:
-  enabled: true
   file: ""
   max_backups: 0
   max_size: 100
@@ -260,4 +234,4 @@ os:
   group: ""
   user: ""
   rlimit_nofile: 0
-schema_version: 29
+schema_version: 27
