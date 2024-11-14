@@ -32,7 +32,6 @@ dns:
   allowed_clients: []
   disallowed_clients: []
   blocked_hosts:
-    - '*.lan'
     - version.bind
     - id.server
     - hostname.bind
