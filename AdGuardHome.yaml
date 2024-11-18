@@ -91,10 +91,14 @@ statistics:
   interval: 1h
   enabled: true
 filters:
-  - enabled: false
-    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_21.txt
-    name: 'CHN: anti-AD'
-    id: 1717683271
+  - enabled: true
+    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
+    name: AdGuard DNS filter
+    id: 1731635483
+  - enabled: true
+    url: https://adrules.top/adblock_plus.txt
+    name: AdRules AdBlock List Plus
+    id: 1731635484
 whitelist_filters: []
 user_rules:
   - '||_vlmcs._tcp.lan^$dnsrewrite=NOERROR;SRV;0 100 1688 my.router'
