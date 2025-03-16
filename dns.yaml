@@ -944,6 +944,7 @@ h3://dns.alidns.com/dns-query
 
   # > (Greasyfork)
 [/greasyfork.org/]h3://0ms.dev/dns-query
+[/cn-greasyfork.org/]h3://0ms.dev/dns-query
 
   # > (Ip List)
 [/apnic.net/]h3://0ms.dev/dns-query
