@@ -574,7 +574,7 @@ h3://dns.alidns.com/dns-query
 
 
 
- # > [0ms_DNS]
+ # > [Cloudflare_DNS]
   # > (?)
 [/ajay.app/]h3://dns.cloudflare.com/dns-query
 [/ampproject.org/]h3://dns.cloudflare.com/dns-query
