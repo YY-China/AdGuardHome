@@ -671,7 +671,6 @@ h3://dns.alidns.com/dns-query
 [/amazonaws-china.com/]h3://dns.cloudflare.com/dns-query
 [/amazonaws.co.uk/]h3://dns.cloudflare.com/dns-query
 [/amazonaws.com/]h3://dns.cloudflare.com/dns-query
-[/amazonaws.com.cn/]h3://dns.cloudflare.com/dns-query
 [/amazonaws.tv/]h3://dns.cloudflare.com/dns-query
 [/amazonbusiness.cn/]h3://dns.cloudflare.com/dns-query
 [/amazonbusiness.com.cn/]h3://dns.cloudflare.com/dns-query
@@ -880,7 +879,6 @@ h3://dns.alidns.com/dns-query
 [/concen.org/]h3://dns.cloudflare.com/dns-query
 [/regrucolo.ru/]h3://dns.cloudflare.com/dns-query
 [/heihachi.pw/]h3://dns.cloudflare.com/dns-query
-[/amazonaws.com/]h3://dns.cloudflare.com/dns-query
 [/evan.im/]h3://dns.cloudflare.com/dns-query
 [/desync.com/]h3://dns.cloudflare.com/dns-query
 [/richardsw.club/]h3://dns.cloudflare.com/dns-query
@@ -919,7 +917,6 @@ h3://dns.alidns.com/dns-query
 [/srv00.com/]h3://dns.cloudflare.com/dns-query
 [/theoks.net/]h3://dns.cloudflare.com/dns-query
 [/tiny-vps.com/]h3://dns.cloudflare.com/dns-query
-[/eu.org/]h3://dns.cloudflare.com/dns-query
 [/torrust-demo.com/]h3://dns.cloudflare.com/dns-query
 [/tryhackx.org/]h3://dns.cloudflare.com/dns-query
 [/valete.tf/]h3://dns.cloudflare.com/dns-query
@@ -1102,7 +1099,6 @@ h3://dns.alidns.com/dns-query
 [/nighthawk.pw/]h3://dns.cloudflare.com/dns-query
 [/proaudiotorrents.org/]h3://dns.cloudflare.com/dns-query
 [/torrenty.org/]h3://dns.cloudflare.com/dns-query
-[/ubuntu.com/]h3://dns.cloudflare.com/dns-query
 [/tracker.sh/]h3://dns.cloudflare.com/dns-query
 [/acgnxtracker.com/]h3://dns.cloudflare.com/dns-query
 [/camoe.cn/]h3://dns.cloudflare.com/dns-query
@@ -1248,7 +1244,6 @@ h3://dns.alidns.com/dns-query
   # > (Github)
 [/atom.io/]h3://dns.cloudflare.com/dns-query
 [/dependabot.com/]h3://dns.cloudflare.com/dns-query
-[/fastly.net/]h3://dns.cloudflare.com/dns-query
 [/ghcr.io/]h3://dns.cloudflare.com/dns-query
 [/git.io/]h3://dns.cloudflare.com/dns-query
 [/github.blog/]h3://dns.cloudflare.com/dns-query
