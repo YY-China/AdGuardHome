@@ -92,10 +92,6 @@ statistics:
   enabled: true
 filters:
   - enabled: true
-    url: https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
-    name: AdGuard DNS filter
-    id: 1731635483
-  - enabled: true
     url: https://adrules.top/adblock_plus.txt
     name: AdRules AdBlock List Plus
     id: 1731635484
