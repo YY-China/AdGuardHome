@@ -11,9 +11,9 @@
 [/dot.pub/]119.29.29.29
 
  # > [Cloudflare_DNS]
-[/dns.cloudflare.com/]h3://dns.alidns.com/dns-query
-[/family.cloudflare-dns.com/]h3://dns.alidns.com/dns-query
-[/security.cloudflare-dns.com/]h3://dns.alidns.com/dns-query
+[/dns.cloudflare.com/]1.1.1.2
+[/family.cloudflare-dns.com/]1.1.1.2
+[/security.cloudflare-dns.com/]1.1.1.2
 
 
 
