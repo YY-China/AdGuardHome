@@ -1313,6 +1313,9 @@ h3://dns.alidns.com/dns-query
 
   # > (BiliBili)
 [/upos-sz-mirrorcos.bilivideo.com/]https://sm2.doh.pub/dns-query
+[/upos-sz-mirrorcosb.bilivideo.com/]https://sm2.doh.pub/dns-query
+[/upos-sz-mirrorcoso1.bilivideo.com/]https://sm2.doh.pub/dns-query
+[/upos-sz-mirrorcosov.bilivideo.com/]https://sm2.doh.pub/dns-query
 [/upos-sz-upcdntx.bilivideo.com/]https://sm2.doh.pub/dns-query
 
   # > (CDN)
