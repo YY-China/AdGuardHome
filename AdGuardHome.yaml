@@ -92,9 +92,9 @@ statistics:
   enabled: true
 filters:
   - enabled: true
-    url: https://adrules.top/adblock_plus.txt
-    name: AdRules AdBlock List Plus
-    id: 1731635484
+    url: https://anti-ad.net/easylist.txt
+    name: anti-AD
+    id: 1759798697
 whitelist_filters: []
 user_rules:
   - '||_vlmcs._tcp.lan^$dnsrewrite=NOERROR;SRV;0 100 1688 my.router'
