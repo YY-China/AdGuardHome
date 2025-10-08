@@ -99,7 +99,6 @@ whitelist_filters: []
 user_rules:
   - '||_vlmcs._tcp.lan^$dnsrewrite=NOERROR;SRV;0 100 1688 my.router'
   - '@@||*^$client=''10.10.10.4'''
-  - '@@||stats.qiumibao.com'
   - '@@||cdn.staticfile.org'
   - '@@||cdn.staticfile.net'
   - '@@||doubleclick.net^$client=''10.10.10.1'''
