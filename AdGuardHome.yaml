@@ -2,7 +2,7 @@ http:
   pprof:
     port: 6060
     enabled: false
-  address: 0.0.0.0:33333
+  address: 0.0.0.0:3380
   session_ttl: 12h
 users:
   - name: xiaoyangzai
@@ -41,7 +41,7 @@ dns:
   trusted_proxies:
     - 127.0.0.0/8
     - ::1/128
-  cache_size: 8388608
+  cache_size: 1048576
   cache_ttl_min: 0
   cache_ttl_max: 0
   cache_optimistic: true
@@ -69,7 +69,7 @@ tls:
   enabled: false
   server_name: ""
   force_https: false
-  port_https: 33334
+  port_https: 33443
   port_dns_over_tls: 0
   port_dns_over_quic: 0
   port_dnscrypt: 0
