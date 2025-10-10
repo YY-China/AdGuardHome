@@ -3,7 +3,6 @@
 [/dns.pub/]119.29.29.29
 [/doh.pub/]119.29.29.29
 [/dot.pub/]119.29.29.29
-[/dns.google/]h3://dns.alidns.com/dns-query
 
 # upstream dns
 h3://dns.alidns.com/dns-query
