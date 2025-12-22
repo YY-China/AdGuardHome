@@ -655,7 +655,10 @@ https://dns.pub/dns-query
 [/ghostchu.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/ghostchu-services.top/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 
-  # > bt - tracker
+  # > bt - trackerlist
+[/trackerslist.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
+
+  # > bt - trackers
 [/0123456789nonexistent.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/0g.cx/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/0x7c0.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
@@ -673,6 +676,7 @@ https://dns.pub/dns-query
 [/aarsen.me/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/abcvg.info/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/abiir.top/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
+[/abir.ga/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/aboutbeautifulgallopinghorsesinthegreenpasture.online/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/aburaya.live/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/acg.rip/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
@@ -723,6 +727,7 @@ https://dns.pub/dns-query
 [/bt4g.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/btcland.xyz/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/buny.uk/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
+[/burmese.app/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/burnabyhighstar.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/byterunner.io/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/camoe.cn/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
@@ -734,6 +739,7 @@ https://dns.pub/dns-query
 [/cloudbase.store/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/cloudit.top/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/cmp-gaming.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
+[/cny.fan/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/concen.org/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/coppersurfer.tk/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/corbina.net/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
@@ -748,6 +754,7 @@ https://dns.pub/dns-query
 [/darkness.services/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/data-bg.net/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/datascene.net/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
+[/ddnsfree.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/ddunlimited.net/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/dealclub.de/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/demonii.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
@@ -783,6 +790,7 @@ https://dns.pub/dns-query
 [/files.fm/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/finbytes.org/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/firebit.org/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
+[/flatuslifir.is/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/fleira.no/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/fnix.net/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/foreverpirates.co/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
@@ -800,6 +808,7 @@ https://dns.pub/dns-query
 [/gcrreen.xyz/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/gcvchp.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/genesis-sp.org/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
+[/ghostchu-services.top/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/gigantino.net/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/gigatorrents.ws/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/gmi.gd/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
@@ -810,10 +819,12 @@ https://dns.pub/dns-query
 [/heihachi.pw/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/hentai.gg/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/hificode.in/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
+[/highstar.shop/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/highteahop.top/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/hikarinokiseki.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/hkg-fansub.info/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/hloli.org/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
+[/hosted-by-vdsina.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/hosted-by-vdsina.ru/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/hosted-by-worldstream.net/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/hotplug.ru/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
@@ -823,6 +834,9 @@ https://dns.pub/dns-query
 [/icon256.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/imgoingto.icu/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/incine.ru/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
+[/internetwarriors.net/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
+[/iochimari.moe/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
+[/ip-51-222-82.net/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/iperson.xyz/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/ipv6tracker.org/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/ipv6tracker.ru/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
@@ -899,6 +913,7 @@ https://dns.pub/dns-query
 [/openbittorrent.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/opendev.cloud/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/opentor.org/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
+[/opentorrent.top/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/opentracker.io/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/opentrackr.org/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/openwebtorrent.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
@@ -910,6 +925,7 @@ https://dns.pub/dns-query
 [/pbh-btn.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/peckservers.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/pimpmyworld.to/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
+[/playground.ru/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/plx.im/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/pmman.tech/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/pocketnet.app/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
@@ -925,6 +941,7 @@ https://dns.pub/dns-query
 [/psyco.fr/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/publicbt.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/publictracker.xyz/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
+[/qingwa.pro/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/qu.ax/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/rarbg.me/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/ready4.icu/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
@@ -946,6 +963,7 @@ https://dns.pub/dns-query
 [/shubt.net/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/siambit.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/siambt.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
+[/skillindia.site/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/sktorrent.eu/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/skynetcloud.site/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/skyts.net/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
@@ -975,6 +993,7 @@ https://dns.pub/dns-query
 [/torrentbytes.net/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/torrentclub.online/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/torrentleech.org/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
+[/torrentonline.cc/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/torrents-nn.cn/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/torrentsmd.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/torrentsnipe.info/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
@@ -982,19 +1001,21 @@ https://dns.pub/dns-query
 [/torrentzilla.org/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/torrust-demo.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/tracker.bz/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
+[/tracker.cl/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/tracker.ink/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/tracker.sh/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/tracker.wf/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/tracker810.xyz/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/trackerlist.xyz/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/trackerservers.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
-[/trackerslist.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
+[/trackerstatus.live/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/trancetraffic.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/tribalmixes.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/tricitytorrents.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/tritan.gg/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/tryhackx.org/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/tvnihon.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
+[/tvunderground.org.ru/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/unionpeer.org/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/upeer.me/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/uraniumhexafluori.de/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
