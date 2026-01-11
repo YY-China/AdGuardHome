@@ -33,7 +33,6 @@ dns:
   allowed_clients: []
   disallowed_clients: []
   blocked_hosts:
-    - '*.lan'
     - '*.ingest.sentry.io'
     - version.bind
     - id.server
