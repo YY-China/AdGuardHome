@@ -3,7 +3,7 @@ http:
     port: 6060
     enabled: false
   address: 0.0.0.0:3380
-  session_ttl: 12h
+  session_ttl: 72h
 users:
   - name: xiaoyangzai
     password: $2a$10$hj581L8rwC/lIglqwY.Gz.kZ/0dmy2jBq8ICF56CxWMY2.WHGJXBq
@@ -17,7 +17,7 @@ dns:
     - 0.0.0.0
   port: 54
   anonymize_client_ip: false
-  ratelimit: 100
+  ratelimit: 50
   ratelimit_subnet_len_ipv4: 24
   ratelimit_subnet_len_ipv6: 56
   ratelimit_whitelist: []
@@ -28,7 +28,7 @@ dns:
   bootstrap_dns:
     - 0.0.0.0
   fallback_dns: []
-  upstream_mode: parallel
+  upstream_mode: load_balance
   fastest_timeout: 1s
   allowed_clients: []
   disallowed_clients: []
@@ -38,16 +38,20 @@ dns:
     - id.server
     - hostname.bind
     - www.google.com
+    - www.google.com.lan
     - play.google.com
+    - play.google.com.lan
     - mtalk.google.com
   trusted_proxies:
     - 127.0.0.0/8
     - ::1/128
-  cache_enabled: true
-  cache_size: 8388608
+  cache_enabled: false
+  cache_size: 0
   cache_ttl_min: 0
   cache_ttl_max: 0
-  cache_optimistic: true
+  cache_optimistic: false
+  cache_optimistic_answer_ttl: 30s
+  cache_optimistic_max_age: 12h
   bogus_nxdomain: []
   aaaa_disabled: false
   enable_dnssec: true
@@ -60,7 +64,7 @@ dns:
   ipset: []
   ipset_file: ""
   bootstrap_prefer_ipv6: false
-  upstream_timeout: 10s
+  upstream_timeout: 5s
   private_networks: []
   use_private_ptr_resolvers: true
   local_ptr_upstreams: []
@@ -134,83 +138,88 @@ filtering:
     schedule:
       time_zone: UTC
     ids:
-      - facebook
-      - instagram
-      - line
-      - netflix
-      - telegram
-      - twitter
-      - youtube
-      - whatsapp
-      - spotify
-      - skype
-      - disneyplus
-      - dailymotion
-      - hbomax
-      - tinder
+      - 4chan
       - 500px
       - 9gag
+      - amazon_streaming
       - amino
       - betano
       - betfair
       - betway
       - bigo_live
       - blaze
+      - bluesky
+      - box
+      - canais_globo
+      - chatgpt
       - claro
+      - claude
       - clubhouse
       - crunchyroll
+      - dailymotion
       - deezer
       - directvgo
       - discord
+      - disneyplus
+      - dropbox
+      - facebook
       - flickr
-      - gog
+      - globoplay
+      - hbomax
       - hulu
       - iheartradio
       - imgur
+      - instagram
       - kakaotalk
       - kik
+      - kook
       - lazada
+      - line
+      - lionsgateplus
+      - looke
       - mail_ru
       - mastodon
       - mercado_libre
+      - nebula
+      - netflix
+      - odysee
       - ok
+      - olvid
       - onlyfans
       - paramountplus
+      - peacock_tv
       - pinterest
+      - playstore
       - plenty_of_fish
       - plex
       - pluto_tv
+      - privacy
       - rakuten_viki
       - reddit
+      - samsung_tv_plus
       - shein
       - shopee
       - signal
+      - skype
+      - slack
       - snapchat
       - soundcloud
+      - spotify
+      - spotify_video
+      - telegram
       - temu
       - tidal
+      - tinder
       - tumblr
       - twitch
+      - twitter
       - viber
       - vimeo
       - vk
       - voot
+      - whatsapp
       - wizz
-      - 4chan
-      - bluesky
-      - canais_globo
-      - chatgpt
-      - claude
-      - dropbox
-      - globoplay
-      - lionsgateplus
-      - looke
-      - nebula
-      - odysee
-      - olvid
-      - peacock_tv
-      - slack
-      - spotify_video
+      - youtube
   protection_disabled_until: null
   safe_search:
     enabled: false
@@ -231,7 +240,7 @@ filtering:
   safesearch_cache_size: 1048576
   parental_cache_size: 1048576
   cache_time: 30
-  filters_update_interval: 12
+  filters_update_interval: 72
   blocked_response_ttl: 86400
   filtering_enabled: true
   rewrites_enabled: true
@@ -259,4 +268,4 @@ os:
   group: ""
   user: ""
   rlimit_nofile: 0
-schema_version: 31
+schema_version: 32
