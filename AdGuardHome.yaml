@@ -42,6 +42,7 @@ dns:
     - play.google.com
     - play.google.com.lan
     - mtalk.google.com
+    - mtalk.google.com.lan
   trusted_proxies:
     - 127.0.0.0/8
     - ::1/128
