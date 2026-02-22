@@ -3,7 +3,7 @@ http:
     port: 6060
     enabled: false
   address: 0.0.0.0:3380
-  session_ttl: 12h
+  session_ttl: 72h
 users:
   - name: xiaoyangzai
     password: $2a$10$hj581L8rwC/lIglqwY.Gz.kZ/0dmy2jBq8ICF56CxWMY2.WHGJXBq
@@ -65,7 +65,7 @@ dns:
   ipset: []
   ipset_file: ""
   bootstrap_prefer_ipv6: false
-  upstream_timeout: 10s
+  upstream_timeout: 5s
   private_networks: []
   use_private_ptr_resolvers: true
   local_ptr_upstreams: []
