@@ -3,7 +3,7 @@ http:
     port: 6060
     enabled: false
   address: 0.0.0.0:3380
-  session_ttl: 72h
+  session_ttl: 12h
 users:
   - name: xiaoyangzai
     password: $2a$10$hj581L8rwC/lIglqwY.Gz.kZ/0dmy2jBq8ICF56CxWMY2.WHGJXBq
@@ -65,7 +65,7 @@ dns:
   ipset: []
   ipset_file: ""
   bootstrap_prefer_ipv6: false
-  upstream_timeout: 5s
+  upstream_timeout: 10s
   private_networks: []
   use_private_ptr_resolvers: true
   local_ptr_upstreams: []
@@ -98,12 +98,14 @@ querylog:
   interval: 6h
   size_memory: 1000
   enabled: true
+  ignored_enabled: false
   file_enabled: true
 statistics:
   dir_path: ""
   ignored: []
   interval: 6h
   enabled: true
+  ignored_enabled: false
 filters:
   - enabled: true
     url: https://anti-ad.net/easylist.txt
@@ -112,7 +114,7 @@ filters:
 whitelist_filters: []
 user_rules:
   - '||_vlmcs._tcp.lan^$dnsrewrite=NOERROR;SRV;0 100 1688 my.router'
-  - '@@||*^$client=''10.10.10.4'''
+  - '@@||*^$client=''192.168.2.60'''
   - '@@||cdn.staticfile.org'
   - '@@||cdn.staticfile.net'
 dhcp:
@@ -142,7 +144,6 @@ filtering:
       - 4chan
       - 500px
       - 9gag
-      - amazon_streaming
       - amino
       - betano
       - betfair
@@ -165,6 +166,7 @@ filtering:
       - dropbox
       - facebook
       - flickr
+      - gemini
       - globoplay
       - hbomax
       - hulu
@@ -194,7 +196,6 @@ filtering:
       - plenty_of_fish
       - plex
       - pluto_tv
-      - privacy
       - rakuten_viki
       - reddit
       - samsung_tv_plus
@@ -269,4 +270,4 @@ os:
   group: ""
   user: ""
   rlimit_nofile: 0
-schema_version: 32
+schema_version: 33
