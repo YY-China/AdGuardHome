@@ -5,7 +5,7 @@
 [/dot.pub/]119.29.29.29
 
 # upstream dns
-https://dns.alidns.com/dns-query
+https://sm2.doh.pub/dns-query
 
 [/xiaoyangzai.cn/]https://dns.pub/dns-query
 [/file09.com/]https://dns.pub/dns-query
