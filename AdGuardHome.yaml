@@ -27,7 +27,8 @@ dns:
   upstream_dns_file: /media/AiDisk_a1/AdGuardHome/dns.yaml
   bootstrap_dns:
     - 0.0.0.0
-  fallback_dns: []
+  fallback_dns:
+    - 223.6.6.6
   upstream_mode: load_balance
   fastest_timeout: 1s
   allowed_clients: []
@@ -65,7 +66,7 @@ dns:
   ipset: []
   ipset_file: ""
   bootstrap_prefer_ipv6: false
-  upstream_timeout: 5s
+  upstream_timeout: 1s
   private_networks: []
   use_private_ptr_resolvers: true
   local_ptr_upstreams: []
