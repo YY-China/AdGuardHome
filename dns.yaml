@@ -14,6 +14,10 @@ https://dns.alidns.com/dns-query
 # dns 分流
 
   # > 腾讯系
+[/upos-sz-mirrorcos.bilivideo.com/]https://dns.pub/dns-query
+[/upos-sz-mirrorcosb.bilivideo.com/]https://dns.pub/dns-query
+[/upos-sz-mirrorcoso1.bilivideo.com/]https://dns.pub/dns-query
+[/upos-tf-all-tx.bilivideo.com/]https://dns.pub/dns-query
 [/anticheatexpert.com/]https://dns.pub/dns-query
 [/cdn-go.cn/]https://dns.pub/dns-query
 [/dnspod.cn/]https://dns.pub/dns-query
