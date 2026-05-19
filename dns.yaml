@@ -14,20 +14,28 @@ https://dns.alidns.com/dns-query
 # dns 分流
 
   # > 腾讯系
+[/anticheatexpert.com/]https://dns.pub/dns-query
 [/cdn-go.cn/]https://dns.pub/dns-query
 [/dnspod.cn/]https://dns.pub/dns-query
 [/dnspod.com/]https://dns.pub/dns-query
+[/gcloudgbs.com/]https://dns.pub/dns-query
 [/gdtimg.com/]https://dns.pub/dns-query
 [/gtimg.cn/]https://dns.pub/dns-query
 [/gtimg.com/]https://dns.pub/dns-query
+[/idqqimg.com/]https://dns.pub/dns-query
 [/maoyan.com/]https://dns.pub/dns-query
+[/myapp.com/]https://dns.pub/dns-query
+[/myqcloud.com/]https://dns.pub/dns-query
 [/njmapp.com/]https://dns.pub/dns-query
 [/pengyou.com/]https://dns.pub/dns-query
 [/qcloud.com/]https://dns.pub/dns-query
 [/qcloudimg.com/]https://dns.pub/dns-query
+[/qidian.com/]https://dns.pub/dns-query
 [/qlogo.cn/]https://dns.pub/dns-query
 [/qpic.cn/]https://dns.pub/dns-query
+[/qq.cn/]https://dns.pub/dns-query
 [/qq.com/]https://dns.pub/dns-query
+[/qq.com.cn/]https://dns.pub/dns-query
 [/qqgameapp.com/]https://dns.pub/dns-query
 [/qqmail.com/]https://dns.pub/dns-query
 [/qqopenapp.com/]https://dns.pub/dns-query
@@ -35,18 +43,26 @@ https://dns.alidns.com/dns-query
 [/rumt-zh.com/]https://dns.pub/dns-query
 [/sogou.com/]https://dns.pub/dns-query
 [/sogoucdn.com/]https://dns.pub/dns-query
+[/tcdnos.com/]https://dns.pub/dns-query
+[/tencent.cn/]https://dns.pub/dns-query
 [/tencent.com/]https://dns.pub/dns-query
+[/tencent.com.cn/]https://dns.pub/dns-query
 [/tencent-cloud.cn/]https://dns.pub/dns-query
 [/tencent-cloud.com/]https://dns.pub/dns-query
+[/tencent-cloud.net/]https://dns.pub/dns-query
 [/tencentcloud.cn/]https://dns.pub/dns-query
 [/tencentcloud.com/]https://dns.pub/dns-query
 [/tencentcs.cn/]https://dns.pub/dns-query
 [/tencentcs.com/]https://dns.pub/dns-query
+[/tencentmusic.com/]https://dns.pub/dns-query
+[/tenpay.com/]https://dns.pub/dns-query
 [/weigame.com/]https://dns.pub/dns-query
 [/wetest.net/]https://dns.pub/dns-query
 [/weixin.com/]https://dns.pub/dns-query
 [/weixinbridge.com/]https://dns.pub/dns-query
 [/wechatpay.com/]https://dns.pub/dns-query
+[/wxlivecdn.com/]https://dns.pub/dns-query
+[/yuewen.com/]https://dns.pub/dns-query
 
   # > ...
 [/ajay.app/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
