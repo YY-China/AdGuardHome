@@ -22,13 +22,10 @@ dns:
   ratelimit_subnet_len_ipv6: 56
   ratelimit_whitelist: []
   refuse_any: true
-  upstream_dns:
-    - 0.0.0.0
+  upstream_dns: []
   upstream_dns_file: /media/AiDisk_a1/AdGuardHome/dns.yaml
-  bootstrap_dns:
-    - 0.0.0.0
-  fallback_dns:
-    - 0.0.0.0
+  bootstrap_dns: []
+  fallback_dns: []
   upstream_mode: load_balance
   fastest_timeout: 1s
   allowed_clients: []
