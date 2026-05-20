@@ -46,8 +46,10 @@ https://dns.alidns.com/dns-query
 [/qzoneapp.com/]https://dns.pub/dns-query
 [/rumt-zh.com/]https://dns.pub/dns-query
 [/servicewechat.com/]https://dns.pub/dns-query
+[/sh-tencentclb.cloud/]https://dns.pub/dns-query
 [/sogou.com/]https://dns.pub/dns-query
 [/sogoucdn.com/]https://dns.pub/dns-query
+[/tcdnlive.com/]https://dns.pub/dns-query
 [/tcdnos.com/]https://dns.pub/dns-query
 [/tencent.cn/]https://dns.pub/dns-query
 [/tencent.com/]https://dns.pub/dns-query
@@ -55,6 +57,7 @@ https://dns.alidns.com/dns-query
 [/tencent-cloud.cn/]https://dns.pub/dns-query
 [/tencent-cloud.com/]https://dns.pub/dns-query
 [/tencent-cloud.net/]https://dns.pub/dns-query
+[/tencentclb.com/]https://dns.pub/dns-query
 [/tencentcloud.cn/]https://dns.pub/dns-query
 [/tencentcloud.com/]https://dns.pub/dns-query
 [/tencentcs.cn/]https://dns.pub/dns-query
@@ -65,7 +68,9 @@ https://dns.alidns.com/dns-query
 [/wetest.net/]https://dns.pub/dns-query
 [/weixin.com/]https://dns.pub/dns-query
 [/weixinbridge.com/]https://dns.pub/dns-query
+[/wechat.cn/]https://dns.pub/dns-query
 [/wechat.com/]https://dns.pub/dns-query
+[/wechatpay.cn/]https://dns.pub/dns-query
 [/wechatpay.com/]https://dns.pub/dns-query
 [/wxlivecdn.com/]https://dns.pub/dns-query
 [/yuewen.com/]https://dns.pub/dns-query
