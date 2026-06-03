@@ -101,6 +101,9 @@ https://dns.alidns.com/dns-query
 [/net.ru/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/nextcloud.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/nolanstore.cc/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
+[/npm.community/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
+[/npmjs.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
+[/npmjs.org/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/or.cz/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/pm2.io/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/rockmods.net/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
@@ -305,6 +308,7 @@ https://dns.alidns.com/dns-query
 [/ankiweb.net/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 
   # > cdn
+[/arkoselabs.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/esm.run/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/fastgit.org/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/jsdelivr.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
@@ -398,8 +402,10 @@ https://dns.alidns.com/dns-query
   # > github
 [/atom.io/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/dependabot.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
+[/gh.io/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/ghcr.io/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/git.io/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
+[/github.ai/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/github.blog/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/github.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/github.community/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
@@ -414,12 +420,8 @@ https://dns.alidns.com/dns-query
 [/githubuniverse.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/githubusercontent.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/myoctocat.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
-[/npm.community/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
-[/npmjs.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
-[/npmjs.org/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
+[/octocaptcha.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/opensource.guide/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
-[/rawgit.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
-[/rawgithub.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/repo.new/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/thegithubshop.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 
