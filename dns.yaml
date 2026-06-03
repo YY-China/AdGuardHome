@@ -731,6 +731,7 @@ https://dns.alidns.com/dns-query
   # > bt - trackers
 [/004430.xyz/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/0123456789nonexistent.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
+[/021912.xyz/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/0g.cx/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/0x7c0.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/1776.ga/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
@@ -829,7 +830,6 @@ https://dns.alidns.com/dns-query
 [/corpscorp.online/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/cpy.re/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/crim.ist/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
-[/ctix.cn/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/cubonegro.lol/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/cutie.dating/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/cyberia.is/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
@@ -1016,6 +1016,7 @@ https://dns.alidns.com/dns-query
 [/orel.ru/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/org.ru/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/org.uk/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
+[/orgtgju.org/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/overflow.biz/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/parag.rs/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/paranoid.agency/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
@@ -1045,6 +1046,7 @@ https://dns.alidns.com/dns-query
 [/qingwa.pro/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/qingwapt.org/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/qu.ax/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
+[/qzz.io/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/rarbg.me/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/rarbg.to/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/ready4.icu/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
@@ -1135,6 +1137,7 @@ https://dns.alidns.com/dns-query
 [/unionpeer.org/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/upeer.me/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/uraniumhexafluori.de/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
+[/v6.navy/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/valete.tf/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/vanitycore.co/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 [/vds.nz/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
