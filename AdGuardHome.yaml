@@ -116,6 +116,8 @@ user_rules:
   - '@@||*^$client=''192.168.2.60'''
   - '@@||cdn.staticfile.org'
   - '@@||cdn.staticfile.net'
+  - '@@||elsevierlimited.tt.omtrdc.net'
+  - '@@||dpm.demdex.net'
 dhcp:
   enabled: false
   interface_name: ""
