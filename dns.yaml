@@ -386,9 +386,9 @@ https://dns.alidns.com/dns-query
 [/shields.io/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 
   # > elsevier
-[/elsevier.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
-[/3d4medical.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
-[/3d4medic.al/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
+# [/elsevier.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
+# [/3d4medical.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
+# [/3d4medic.al/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 
   # > fastly
 [/fastly.net/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
