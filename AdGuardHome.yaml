@@ -107,7 +107,7 @@ statistics:
   ignored_enabled: false
 filters:
   - enabled: true
-    url: https://anti-ad.net/easylist.txt
+    url: https://anti-ad.net/adguard.txt
     name: anti-AD
     id: 1759798697
 whitelist_filters: []
