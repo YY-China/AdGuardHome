@@ -117,7 +117,7 @@ user_rules:
   - '@@||cdn.staticfile.org'
   - '@@||cdn.staticfile.net'
   - '@@||elsevierlimited.tt.omtrdc.net'
-  - '@@||dpm.demdex.net'
+  - '@@||config.edge.skype.com'
 dhcp:
   enabled: false
   interface_name: ""
