@@ -82,35 +82,35 @@ https://dns.alidns.com/dns-query
 [/yuewen.com/]https://dns.pub/dns-query
 
   # > 京东系
-[/360buy.com/]https://sm2.doh.pub/dns-query
-[/360buyimg.com/]https://sm2.doh.pub/dns-query
-[/51buy.com/]https://sm2.doh.pub/dns-query
-[/7fresh.com/]https://sm2.doh.pub/dns-query
-[/calmate.cc/]https://sm2.doh.pub/dns-query
-[/chinabank.com.cn/]https://sm2.doh.pub/dns-query
-[/d9sj.com/]https://sm2.doh.pub/dns-query
-[/duiou.com.cn/]https://sm2.doh.pub/dns-query
-[/imdada.cn/]https://sm2.doh.pub/dns-query
-[/jd.com/]https://sm2.doh.pub/dns-query
-[/jd.cn/]https://sm2.doh.pub/dns-query
-[/jd.hk/]https://sm2.doh.pub/dns-query
-[/jd-ex.com/]https://sm2.doh.pub/dns-query
-[/jdcfc.cn/]https://sm2.doh.pub/dns-query
-[/jdcloud-oss.com/]https://sm2.doh.pub/dns-query
-[/jddglobal.com/]https://sm2.doh.pub/dns-query
-[/jddj.com/]https://sm2.doh.pub/dns-query
-[/jdh.cn/]https://sm2.doh.pub/dns-query
-[/jdh.com/]https://sm2.doh.pub/dns-query
-[/jdjygold.com/]https://sm2.doh.pub/dns-query
-[/jdl.cn/]https://sm2.doh.pub/dns-query
-[/jdl.com/]https://sm2.doh.pub/dns-query
-[/jdpay.com/]https://sm2.doh.pub/dns-query
-[/jhscm.com/]https://sm2.doh.pub/dns-query
-[/jingdong.com/]https://sm2.doh.pub/dns-query
-[/jingdonghealth.cn/]https://sm2.doh.pub/dns-query
-[/vipmro.net/]https://sm2.doh.pub/dns-query
-[/yiyaojd.com/]https://sm2.doh.pub/dns-query
-[/yunxiu.com/]https://sm2.doh.pub/dns-query
+[/360buy.com/]https://dns.pub/dns-query
+[/360buyimg.com/]https://dns.pub/dns-query
+[/51buy.com/]https://dns.pub/dns-query
+[/7fresh.com/]https://dns.pub/dns-query
+[/calmate.cc/]https://dns.pub/dns-query
+[/chinabank.com.cn/]https://dns.pub/dns-query
+[/d9sj.com/]https://dns.pub/dns-query
+[/duiou.com.cn/]https://dns.pub/dns-query
+[/imdada.cn/]https://dns.pub/dns-query
+[/jd.com/]https://dns.pub/dns-query
+[/jd.cn/]https://dns.pub/dns-query
+[/jd.hk/]https://dns.pub/dns-query
+[/jd-ex.com/]https://dns.pub/dns-query
+[/jdcfc.cn/]https://dns.pub/dns-query
+[/jdcloud-oss.com/]https://dns.pub/dns-query
+[/jddglobal.com/]https://dns.pub/dns-query
+[/jddj.com/]https://dns.pub/dns-query
+[/jdh.cn/]https://dns.pub/dns-query
+[/jdh.com/]https://dns.pub/dns-query
+[/jdjygold.com/]https://dns.pub/dns-query
+[/jdl.cn/]https://dns.pub/dns-query
+[/jdl.com/]https://dns.pub/dns-query
+[/jdpay.com/]https://dns.pub/dns-query
+[/jhscm.com/]https://dns.pub/dns-query
+[/jingdong.com/]https://dns.pub/dns-query
+[/jingdonghealth.cn/]https://dns.pub/dns-query
+[/vipmro.net/]https://dns.pub/dns-query
+[/yiyaojd.com/]https://dns.pub/dns-query
+[/yunxiu.com/]https://dns.pub/dns-query
 
   # > ...
 [/ajay.app/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
@@ -343,6 +343,9 @@ https://dns.alidns.com/dns-query
 
   # > anki
 [/ankiweb.net/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
+
+  # > anti-ad
+[/anti-ad.net/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
 
   # > cdn
 [/arkoselabs.com/]https://frd4wvnobp.cloudflare-gateway.com/dns-query
